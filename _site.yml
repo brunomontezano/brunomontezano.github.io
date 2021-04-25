@@ -7,9 +7,6 @@ navbar:
     - text: "Home"
       icon: fa-user
       href: index.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://brunomontezano.github.io/blog/
   right:
     - text: "Email me"
       icon: fa-envelope-o
