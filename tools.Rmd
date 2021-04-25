@@ -6,3 +6,13 @@ Everything I use to accomplish my goals work-related I consider tools. Below, I'
 through some of them.
 
 # Software I Use
+
+## Operating System
+
+- [**Arch Linux**](https://archlinux.org):
+
+## Terminal Emulator
+
+- [**st (simple terminal)**](https://st.suckless.org):
+
+
