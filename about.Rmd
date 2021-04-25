@@ -1,7 +1,0 @@
----
-title: "About me"
----
-
-## Bruno Braga Montezano
-
-Say more about you here.

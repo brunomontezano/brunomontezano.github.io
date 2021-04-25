@@ -1,25 +1,25 @@
-name: "Bruno Braga Montezano"                                # CHANGE HERE 
+name: "Bruno Braga Montezano"
 output_dir: "."
 navbar:
-  title: "Bruno Braga Montezano"                             # CHANGE HERE 
+  title: "Bruno Braga Montezano"
   type: inverse
   left:
     - text: "Home"
       icon: fa-user
       href: index.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://brunomontezano.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://brunomontezano.github.io/blog/
   right:
     - text: "Email me"
       icon: fa-envelope-o
-      href: mailto:brunodoyt@gmail.com                    # CHANGE HERE 
+      href: mailto:brunodoyt@gmail.com
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/brunomontezano       # CHANGE HERE 
+      href: https://github.com/brunomontezano
+    - text: "Curriculum"
+      icon: fa-file-pdf-o
+      href: http://lattes.cnpq.br/5680118320056968
 output:
   html_document:
     theme: readable
