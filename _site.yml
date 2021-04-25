@@ -9,7 +9,7 @@ navbar:
       href: index.html
   right:
     - text: "Email me"
-      icon: fa-envelope-o
+      icon: 📧
       href: mailto:brunodoyt@gmail.com
     - text: "GitHub"
       icon: fa-github
