@@ -1,0 +1,20 @@
+---
+title: Bruno Braga Montezano
+---
+
+# Who am I?
+
+![](self.jpg){width=15%}
+
+I'm [Bruno B. Montezano](https://brunomontezano.github.io), a Graduate Student in Psychology
+at the Catholic University of Pelotas
+and Computer Technician by the Federal Institute of Education, Science and Technology of
+Rio Grande do Sul (IFRS).
+My primary research focuses are mood disorders and general mental health.
+I approach this topic with methods from computational social science.
+I also programming and working on data analysis with R and quantitative research methods.
+I am an advocate for free and open source software, reproducible research and simple solutions.
+
+[See my curriculum clicking here (currently only in portuguese).](https://brunomontezano.github.io/cv.html)
+
+If you'd like to contact me, feel free to send me an email.
