@@ -4,9 +4,34 @@ title: "CV"
 
 ## Education
 
-## Publications
+* 2022 — current: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
 
-* Latent bipolar disorder. Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* at *The Lancet*.
+* 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil
+
+* 2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil
+
+## Publications and preprints
+
+* [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* accepted at the *Brazilian Journal of Psychiatry*. 2023.
+
+* Latent bipolar disorder. Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* accepted at *The Lancet*. 2023.
+
+* [Predicting bipolar disorder incidence in young adults using gradient boosting: a 5-year follow-up study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
+
+* [Predictors of illicit substance abuse/dependence during young adulthood: A machine learning approach](https://doi.org/10.1016/j.jpsychires.2022.11.030). Rakovski C, Ballester PL, **Montezano BB**, Souza LDM, Jansen K, Silva RA, Mondin TC, Moreira FP, De Boni RB, Frey BN, Kapczinski F, Cardoso TA. *Article* published in *Journal of Psychiatric Research*. 2023.
+
+* [Predicting 3-year persistent or recurrent major depressive episode using machine learning techniques](https://doi.org/10.1016/j.psycom.2022.100055). Fialho AR, **Montezano BB**, Ballester PL, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Jansen K. *Article* published in *Psychiatry Research Communications*. 2022.
+
+* [Personality disorders as predictors for the conversion from major depressive disorder to bipolar disorder: A prospective cohort study](https://doi.org/10.1016/j.psycom.2022.100068). Ávila GB, **Montezano BB**, Souza LDM, Cardoso TA, Silva RA, Mondin TC, Moreira FP, Jansen K. *Article* published in *Psychiatry Research Communications*. 2022.
+
+* [Sleep alterations as a predictor of bipolar disorder among offspring of parents with bipolar disorder: a systematic review and meta-analysis](https://doi.org/10.47626/2237-6089-2021-0256). Aguiar KR, Cabelleira MD, **Montezano BB**, Jansen K, Cardoso TA. *Article* published in *Trends in Psychiatry and Psychotherapy*. 2022.
+
+## Book chapters
+
+* [The Dawn of Digital Psychiatry](https://doi.org/10.1007/978-3-031-10698-9_1). Zimerman A, **Montezano BB**, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book *Digital Mental Health* published by *Springer Nature*. 2023.
+
+* [Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903). **Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book *Psicologia: Identidade Profissional e Compromisso Social* published by *Atena Editora*. 2021.
+
 
 ## Courses
 
@@ -14,7 +39,13 @@ title: "CV"
 
 ## Awards
 
-## Media
+* *Young Researcher Award*, Congress on Brain, Behavior and Emotions 2022. 2022
+
+* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, Brazilian Federation of Cognitive Therapies. 2021.
+
+* *Highlight in the area of Human Sciences at the 28th Congress of Scientific Initiation*, Federal University of Rio Grande. 2019.
+
+## Media and press releases
 
 * [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
 
