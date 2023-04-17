@@ -1,17 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "brunomontezano.github.io"
+  title: "Bruno Montezano"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 

@@ -1,11 +1,37 @@
 ---
-title: "brunomontezano.github.io"
+title: "Bruno Montezano"
+image: profile.jpg
+image-alt: "Profile picture from Bruno Montezano."
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/bmontezano/
+    - text: GitHub
+      href: https://github.com/brunomontezano
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Bruno-Braga-Montezano
+    - text: ORCID
+      href: https://orcid.org/0000-0002-4627-1776
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en
+    - text: Lattes Curriculum
+      href: https://lattes.cnpq.br/5680118320056968
+    - text: Email
+      href: mailto:bmontezano@hcpa.edu.br
 ---
 
-This is a Quarto website.
+I am a psychologist and data analyst who specializes in using machine learning
+techniques to tackle mental health problems. My research focuses mainly on mood
+disorders, with a particular interest in bipolar disorder. Over the years, I
+have published papers on a variety of topics related to mental health.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Through my work, I strive to uncover new insights into the causes and treatment
+of mood disorders, and to develop data-driven approaches that can help improve
+the lives of people living with these conditions. Whether it's using machine
+learning algorithms to analyze complex datasets or collaborating with other
+researchers to design new studies, I am passionate about finding new ways to
+apply my expertise in psychology and data analysis to make a real difference in
+the field of mental health and precision psychiatry.

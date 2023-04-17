@@ -1,0 +1,28 @@
+---
+title: "CV"
+---
+
+## Education
+
+## Publications
+
+* Latent bipolar disorder. Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* at *The Lancet*.
+
+## Courses
+
+* [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). April, 2023.
+
+## Awards
+
+## Media
+
+* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
+
+## Reviews
+
+* [The R Journal](https://journal.r-project.org/)
+* [The Journal of Open Source Software](https://joss.theoj.org/)
+* [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* [Debates em Psiquiatria](https://revistardp.org.br/)
+* [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
+* [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
