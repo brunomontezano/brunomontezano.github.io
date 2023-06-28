@@ -14,9 +14,15 @@ title: "CV"
 
 * [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* accepted at the *Brazilian Journal of Psychiatry*. 2023.
 
-* Latent bipolar disorder. Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* accepted at *The Lancet*. 2023.
+* [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
+
+* Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* accepted at the *Brazilian Journal of Psychiatry*. 2023.
 
 * [Predicting bipolar disorder incidence in young adults using gradient boosting: a 5-year follow-up study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
+
+* [Associations between general sleep quality and measures of functioning and cognition in subjects recently diagnosed with bipolar disorder](https://doi.org/10.1016/j.psycom.2023.100121).  **Montezano BB**, Cardoso TA, Souza LDM, Moreira FP, Mondin TC, Silva RA, Jansen K. *Article* published at *Psychiatry Research Communications*. 2023.
+
+* [Validation of the Brazilian version of the Processes of Change Questionnaire in Weight Management in adults with overweight and obesity in Brazil](https://doi.org/10.1101/2023.03.20.23287450). Carvalho Q, Ziani PR, **Montezano BB**, Goularte JF, Rosa AR. *Preprint* at *MedRxiv*. 2023.
 
 * [Predictors of illicit substance abuse/dependence during young adulthood: A machine learning approach](https://doi.org/10.1016/j.jpsychires.2022.11.030). Rakovski C, Ballester PL, **Montezano BB**, Souza LDM, Jansen K, Silva RA, Mondin TC, Moreira FP, De Boni RB, Frey BN, Kapczinski F, Cardoso TA. *Article* published in *Journal of Psychiatric Research*. 2023.
 
@@ -32,28 +38,32 @@ title: "CV"
 
 * [Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903). **Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book *Psicologia: Identidade Profissional e Compromisso Social* published by *Atena Editora*. 2021.
 
-
 ## Courses
 
 * [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). April, 2023.
 
 ## Awards
 
-* *Young Researcher Award*, Congress on Brain, Behavior and Emotions 2022. 2022
+* *Best Poster Award at the [ISBD 2023 Annual Conference](https://isbd2023.org/)*. International Society for Bipolar Disorders. Chicago, IL. 2023.
 
-* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, Brazilian Federation of Cognitive Therapies. 2021.
+* *Mitacs Globalink Research Award*. Project: Machine learning and women's mental health: using bleeding-edge methods to understand premenstrual and mood symptoms. Collaboration with McMaster University (Hamilton, ON). [Mitacs](https://www.mitacs.ca/en). 2023.
 
-* *Highlight in the area of Human Sciences at the 28th Congress of Scientific Initiation*, Federal University of Rio Grande. 2019.
+* *Young Researcher Award*, [Congress on Brain, Behavior and Emotions 2022](https://www.braincongress.com.br/). Gramado, RS. 2022.
+
+* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, [Brazilian Federation of Cognitive Therapies](https://fbtc.org.br/). Online format. 2021.
+
+* *Highlight in the area of Human Sciences at the 28th Congress of Scientific Initiation*, [Federal University of Rio Grande](https://www.furg.br/en/). Rio Grande, RS. 2019.
 
 ## Media and press releases
 
 * [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
 
-## Reviews
+## Roles
 
-* [The R Journal](https://journal.r-project.org/)
-* [The Journal of Open Source Software](https://joss.theoj.org/)
-* [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
-* [Debates em Psiquiatria](https://revistardp.org.br/)
-* [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
-* [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
+* Junior Editor: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* Reviewer: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* Reviewer: [The R Journal](https://journal.r-project.org/)
+* Reviewer: [The Journal of Open Source Software](https://joss.theoj.org/)
+* Reviewer: [Debates em Psiquiatria](https://revistardp.org.br/)
+* Reviewer: [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
+* Reviewer: [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
