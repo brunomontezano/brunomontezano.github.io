@@ -16,7 +16,7 @@ title: "CV"
 
 * [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
 
-* Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* accepted at the *Brazilian Journal of Psychiatry*. 2023.
+* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* accepted at the *Brazilian Journal of Psychiatry*. 2023.
 
 * [Predicting bipolar disorder incidence in young adults using gradient boosting: a 5-year follow-up study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
 
@@ -57,6 +57,8 @@ title: "CV"
 ## Media and press releases
 
 * [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
+
+* [Egressos do curso de Psicologia da UCPel são destaque em premiação internacional.](https://ucpel.edu.br/noticias/egressos-do-curso-de-psicologia-da-ucpel-sao-destaque-em-premiacao-internacional) Universidade Católica de Pelotas. June 29, 2023.
 
 ## Roles
 
