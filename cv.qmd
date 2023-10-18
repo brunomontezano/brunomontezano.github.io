@@ -4,7 +4,9 @@ title: "CV"
 
 ## Education
 
-* 2022 — current: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
+* 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
+
+* 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
 
 * 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil
 
@@ -31,6 +33,8 @@ title: "CV"
 * [Personality disorders as predictors for the conversion from major depressive disorder to bipolar disorder: A prospective cohort study](https://doi.org/10.1016/j.psycom.2022.100068). Ávila GB, **Montezano BB**, Souza LDM, Cardoso TA, Silva RA, Mondin TC, Moreira FP, Jansen K. *Article* published in *Psychiatry Research Communications*. 2022.
 
 * [Sleep alterations as a predictor of bipolar disorder among offspring of parents with bipolar disorder: a systematic review and meta-analysis](https://doi.org/10.47626/2237-6089-2021-0256). Aguiar KR, Cabelleira MD, **Montezano BB**, Jansen K, Cardoso TA. *Article* published in *Trends in Psychiatry and Psychotherapy*. 2022.
+
+* [Predicting functional impairment in euthymic patients with mood disorder: A 5-year follow-up](https://doi.org/10.1016/j.psychres.2023.115404). Aguiar KR, **Montezano BB**, Feiten JG, Watts D, Zimerman A, Mondin TC, Silva RA, Souza LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Article* published in *Psychiatry Research*. 2023.
 
 ## Book chapters
 
