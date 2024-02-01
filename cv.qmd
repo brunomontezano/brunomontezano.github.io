@@ -14,6 +14,10 @@ title: "CV"
 
 ## Publications and preprints
 
+* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](http://dx.doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**[^1], Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* accepted at *Acta Psychiatrica Scandinavica*. 2024.
+
+[^1]: Joint first author.
+
 * [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* accepted at the *Brazilian Journal of Psychiatry*. 2023.
 
 * [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
@@ -38,11 +42,17 @@ title: "CV"
 
 ## Book chapters
 
+* [O uso da inteligência artificial para identificar doenças psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609). **Montezano BB**, Vecchia GFD, Lorenzoni IC, Passos IC. Chapter of the book *Psiquiatria Digital* published by *Artmed*. 2024.
+
+* [Predição de risco de suicídio utilizando técnicas de inteligência artificial](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609). Roza TH, **Montezano BB**, Antonelli-Salgado T, Passos IC. Chapter of the book *Psiquiatria Digital* published by *Artmed*. 2024.
+
 * [The Dawn of Digital Psychiatry](https://doi.org/10.1007/978-3-031-10698-9_1). Zimerman A, **Montezano BB**, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book *Digital Mental Health* published by *Springer Nature*. 2023.
+
+* [Suicídio](https://loja.grupoa.com.br/psicofarmacos-consulta-rapida-6ed9786558821366-p1021397). Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, **Montezano BB**, Passos IC. Chapter of the book *Psicofármacos: consulta rápida* published by *Artmed*. 2023.
 
 * [Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903). **Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book *Psicologia: Identidade Profissional e Compromisso Social* published by *Atena Editora*. 2021.
 
-## Courses
+## Courses taught
 
 * [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). April, 2023.
 
@@ -66,8 +76,10 @@ title: "CV"
 
 ## Roles
 
-* Junior Editor: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* Assistant Editor: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
 * Reviewer: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* Reviewer: [Nature Scientific Reports](https://www.nature.com/srep/)
+* Reviewer: [Journal of Medical Internet Research](https://www.jmir.org/)
 * Reviewer: [The R Journal](https://journal.r-project.org/)
 * Reviewer: [The Journal of Open Source Software](https://joss.theoj.org/)
 * Reviewer: [Debates em Psiquiatria](https://revistardp.org.br/)

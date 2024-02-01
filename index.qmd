@@ -1,11 +1,11 @@
 ---
 title: "Bruno Montezano"
-image: profile.jpg
+image: profile.jpeg
 image-alt: "Profile picture from Bruno Montezano."
 about: 
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 12em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/bmontezano/
@@ -19,19 +19,35 @@ about:
       href: https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en
     - text: Lattes Curriculum
       href: https://lattes.cnpq.br/5680118320056968
+    - text: YouTube
+      href: https://www.youtube.com/@brunomontezano/
     - text: Email
       href: mailto:bmontezano@hcpa.edu.br
 ---
 
-I am a psychologist and data analyst who specializes in using machine learning
-techniques to tackle mental health problems. My research focuses mainly on mood
-disorders, with a particular interest in bipolar disorder. Over the years, I
-have published papers on a variety of topics related to mental health.
+Bruno Montezano is a master in Psychiatry and Behavioral Sciences from the
+Federal University of Rio Grande do Sul (2023), computer technician from the
+Federal Institute of Education, Science and Technology of Rio Grande do Sul
+(2015) and psychologist (CRP 07/38086) graduated from the Catholic University of
+Pelotas in 2021. He is currently a PhD student at the Graduate Program in
+Psychiatry and Behavioral Sciences of the Federal University of Rio Grande do
+Sul (Brazil) and works as a researcher at the Laboratory of Molecular Psychiatry
+at Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).
 
-Through my work, I strive to uncover new insights into the causes and treatment
-of mood disorders, and to develop data-driven approaches that can help improve
-the lives of people living with these conditions. Whether it's using machine
-learning algorithms to analyze complex datasets or collaborating with other
-researchers to design new studies, I am passionate about finding new ways to
-apply my expertise in psychology and data analysis to make a real difference in
-the field of mental health and precision psychiatry.
+He has a scholarship from the Coordination for the Improvement of Higher
+Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno
+Montezano has extensive experience in quantitative data analysis and statistical
+computing, with expertise in the areas of machine learning and mental health
+outcomes.
+
+He has published in several high-impact psychiatry focused scientific journals
+such as The Lancet. He is director and member of the AlliaNCE (Artificial
+Intelligence in Neuroscience) research group coordinated by Dr. Ives Cavalcante
+Passos. In May 2023, he received the Mitacs Globalink Research Award to be
+funded for an internship at McMaster University in Canada to work on the
+interface between women's mental health and machine learning. Since June 2023,
+he has also served as an assistant editor at the Brazilian Journal of
+Psychiatry. In the second semester of 2023, he presented the results of his
+dissertation on the interface between bipolar disorder and artificial
+intelligence techniques at the 25th Annual Conference of the International
+Society for Bipolar Disorders (ISBD) in Chicago (USA).
