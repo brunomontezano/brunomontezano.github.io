@@ -1,7 +1,21 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bruno Montezano",
+    "section": "",
+    "text": "Bruno Montezano is a master in Psychiatry and Behavioral Sciences from the Federal University of Rio Grande do Sul (2023), computer technician from the Federal Institute of Education, Science and Technology of Rio Grande do Sul (2015) and psychologist (CRP 07/38086) graduated from the Catholic University of Pelotas in 2021. He is currently a PhD student at the Graduate Program in Psychiatry and Behavioral Sciences of the Federal University of Rio Grande do Sul (Brazil) and works as a researcher at the Laboratory of Molecular Psychiatry at Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).\nHe has a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno Montezano has extensive experience in quantitative data analysis and statistical computing, with expertise in the areas of machine learning and mental health outcomes.\nHe has published in several high-impact psychiatry focused scientific journals such as The Lancet. He is director and member of the AlliaNCE (Artificial Intelligence in Neuroscience) research group coordinated by Dr. Ives Cavalcante Passos. In May 2023, he received the Mitacs Globalink Research Award to be funded for an internship at McMaster University in Canada to work on the interface between women’s mental health and machine learning. Since June 2023, he has also served as an assistant editor at the Brazilian Journal of Psychiatry. In the second semester of 2023, he presented the results of his dissertation on the interface between bipolar disorder and artificial intelligence techniques at the 25th Annual Conference of the International Society for Bipolar Disorders (ISBD) in Chicago (USA)."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) under the Academic Excellence Program (Proex)\n\n2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).\nDissertation: Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).\n\n2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil\n\nFunded by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) with scientific initiation scholarship.\nFinal paper was published as an open access article at Psychiatry Research Communications.\n\n2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
     "title": "CV",
     "section": "",
     "text": "2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) under the Academic Excellence Program (Proex)\n\n2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).\nDissertation: Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).\n\n2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil\n\nFunded by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) with scientific initiation scholarship.\nFinal paper was published as an open access article at Psychiatry Research Communications.\n\n2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil"
@@ -21,11 +35,11 @@
     "text": "Book chapters\n\nO uso da inteligência artificial para identificar doenças psiquiátricas. Montezano BB, Vecchia GFD, Lorenzoni IC, Passos IC. Chapter of the book Psiquiatria Digital published by Artmed. 2024.\nPredição de risco de suicídio utilizando técnicas de inteligência artificial. Roza TH, Montezano BB, Antonelli-Salgado T, Passos IC. Chapter of the book Psiquiatria Digital published by Artmed. 2024.\nThe Dawn of Digital Psychiatry. Zimerman A, Montezano BB, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book Digital Mental Health published by Springer Nature. 2023.\nSuicídio. Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, Montezano BB, Passos IC. Chapter of the book Psicofármacos: consulta rápida published by Artmed. 2023.\nRelação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens. Montezano BB, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book Psicologia: Identidade Profissional e Compromisso Social published by Atena Editora. 2021."
   },
   {
-    "objectID": "cv.html#courses",
-    "href": "cv.html#courses",
+    "objectID": "cv.html#courses-taught",
+    "href": "cv.html#courses-taught",
     "title": "CV",
-    "section": "Courses",
-    "text": "Courses\n\nIntroduction to R Course (in Portuguese). April, 2023."
+    "section": "Courses taught",
+    "text": "Courses taught\n\nIntroduction to R Course (in Portuguese). April, 2023."
   },
   {
     "objectID": "cv.html#awards",
@@ -42,46 +56,11 @@
     "text": "Media and press releases\n\nEstudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão. Zero Hora. April 13, 2023.\nEgressos do curso de Psicologia da UCPel são destaque em premiação internacional. Universidade Católica de Pelotas. June 29, 2023."
   },
   {
-    "objectID": "cv.html#reviews",
-    "href": "cv.html#reviews",
-    "title": "CV",
-    "section": "Reviews",
-    "text": "Reviews\n\nThe R Journal\nThe Journal of Open Source Software\nBrazilian Journal of Psychiatry\nDebates em Psiquiatria\nTrends in Psychiatry and Psychotherapy\nInternational Journal of Mental Health and Addiction"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bruno Montezano",
-    "section": "",
-    "text": "Bruno Montezano is a master in Psychiatry and Behavioral Sciences from the Federal University of Rio Grande do Sul (2023), computer technician from the Federal Institute of Education, Science and Technology of Rio Grande do Sul (2015) and psychologist (CRP 07/38086) graduated from the Catholic University of Pelotas in 2021. He is currently a PhD student at the Graduate Program in Psychiatry and Behavioral Sciences of the Federal University of Rio Grande do Sul (Brazil) and works as a researcher at the Laboratory of Molecular Psychiatry at Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).\nHe has a scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno Montezano has extensive experience in quantitative data analysis and statistical computing, with expertise in the areas of machine learning and mental health outcomes.\nHe has published in several high-impact psychiatry focused scientific journals such as The Lancet. He is director and member of the AlliaNCE (Artificial Intelligence in Neuroscience) research group coordinated by Dr. Ives Cavalcante Passos. In May 2023, he received the Mitacs Globalink Research Award to be funded for an internship at McMaster University in Canada to work on the interface between women’s mental health and machine learning. Since June 2023, he has also served as an assistant editor at the Brazilian Journal of Psychiatry. In the second semester of 2023, he presented the results of his dissertation on the interface between bipolar disorder and artificial intelligence techniques at the 25th Annual Conference of the International Society for Bipolar Disorders (ISBD) in Chicago (USA)."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "",
-    "text": "2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) under the Academic Excellence Program (Proex)\n\n2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil\n\nFunded by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).\nDissertation: Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).\n\n2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil\n\nFunded by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) with scientific initiation scholarship.\nFinal paper was published as an open access article at Psychiatry Research Communications.\n\n2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil"
-  },
-  {
     "objectID": "cv.html#roles",
     "href": "cv.html#roles",
     "title": "CV",
     "section": "Roles",
     "text": "Roles\n\nAssistant Editor: Brazilian Journal of Psychiatry\nReviewer: Brazilian Journal of Psychiatry\nReviewer: Nature Scientific Reports\nReviewer: Journal of Medical Internet Research\nReviewer: The R Journal\nReviewer: The Journal of Open Source Software\nReviewer: Debates em Psiquiatria\nReviewer: Trends in Psychiatry and Psychotherapy\nReviewer: International Journal of Mental Health and Addiction"
-  },
-  {
-    "objectID": "cv.html#footnotes",
-    "href": "cv.html#footnotes",
-    "title": "CV",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nJoint first author.↩︎"
-  },
-  {
-    "objectID": "cv.html#courses-taught",
-    "href": "cv.html#courses-taught",
-    "title": "CV",
-    "section": "Courses taught",
-    "text": "Courses taught\n\nIntroduction to R Course (in Portuguese). April, 2023."
   },
   {
     "objectID": "cv.html#citations",
@@ -91,24 +70,10 @@
     "text": "Citations"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "Stop repeating yourself when coding!\n\n\n\nR\n\n\nProgramming\n\n\n\nWhen we repeat ourselves when programming, it is usually a sign that something is happening inefficiently.\n\n\n\nBruno Montezano\n\n\nFeb 19, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-02-19-vectors/index.html",
-    "href": "posts/2024-02-19-vectors/index.html",
-    "title": "Stop repeating yourself when coding!",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{montezano2024,\n  author = {Montezano, Bruno},\n  title = {Stop Repeating Yourself When Coding!},\n  date = {2024-02-19},\n  url = {https://brunomontezano.github.io/posts/2024-02-19-vectors/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMontezano, Bruno. 2024. “Stop Repeating Yourself When\nCoding!” February 19, 2024. https://brunomontezano.github.io/posts/2024-02-19-vectors/."
-  },
-  {
-    "objectID": "posts/2024-02-19-stop-repeating-yourself/index.html",
-    "href": "posts/2024-02-19-stop-repeating-yourself/index.html",
-    "title": "Stop repeating yourself when coding!",
-    "section": "",
-    "text": "In general, when we are programming, whether using R or any other programming language, when we notice that we start repeating ourselves over and over again, that is not a good sign. Not because our code will break or not do what we would like it to do, but it becomes less flexible, less adaptable and less scalable. In this blog post, I will try to give some possible solutions when we come across unnecessary repetitions in our code.\n\nWhat is the problem?\nLet’s suppose I have a data set with 10 rows (research participants) and seven columns (participant ID, age, and five items from an assessment instrument that I applied to each of those assessed). At the end of data collection, I realized that the items had been coded incorrectly, the levels were recorded from 1 to 5, but the instrument, to be corrected appropriately, must be coded from 0 to 4. Furthermore, the items 4 and 5 must be reverse coded, as they are in the opposite direction of the construct evaluated in relation to the other items on the scale.\n\nset.seed(1)\ntibble::tibble(\n  id = 1:10,\n  age = round(rnorm(n = 10, mean = 35, sd = 10)),\n  item_1 = sample(1:5, 10, replace = TRUE),\n  item_2 = sample(1:5, 10, replace = TRUE),\n  item_3 = sample(1:5, 10, replace = TRUE),\n  item_4 = sample(1:5, 10, replace = TRUE),\n  item_5 = sample(1:5, 10, replace = TRUE)\n)\n\n# A tibble: 10 × 7\n      id   age item_1 item_2 item_3 item_4 item_5\n   &lt;int&gt; &lt;dbl&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;\n 1     1    29      1      4      4      2      1\n 2     2    37      5      1      1      1      4\n 3     3    27      5      4      1      3      5\n 4     4    51      1      3      4      3      5\n 5     5    38      1      2      1      4      4\n 6     6    27      5      2      2      3      5\n 7     7    40      5      4      3      1      4\n 8     8    42      2      4      2      4      4\n 9     9    41      2      4      2      5      1\n10    10    32      1      2      5      1      5\n\n\n\n\nCreate your own functions\n\n\nUse purrr::map in your favor\n\n\nWhen changing columns with dplyr::mutate, remember dplyr::across\n\n\n\n\nCitationBibTeX citation:@online{montezano2024,\n  author = {Montezano, Bruno},\n  title = {Stop Repeating Yourself When Coding!},\n  date = {2024-02-19},\n  url = {https://brunomontezano.github.io/posts/2024-02-19-stop-repeating-yourself/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMontezano, Bruno. 2024. “Stop Repeating Yourself When\nCoding!” February 19, 2024. https://brunomontezano.github.io/posts/2024-02-19-stop-repeating-yourself/."
+    "objectID": "cv.html#footnotes",
+    "href": "cv.html#footnotes",
+    "title": "CV",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nJoint first author.↩︎"
   }
 ]
