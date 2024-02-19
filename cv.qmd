@@ -5,15 +5,21 @@ title: "CV"
 ## Education
 
 * 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-
+  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (CAPES) under the Academic Excellence Program (Proex)
+  
 * 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-  - Dissertation: [Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos](http://hdl.handle.net/10183/266476) (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up)
+  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).
+  - Dissertation: [Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos](http://hdl.handle.net/10183/266476) (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).
 
 * 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil
+  - Funded by the *Conselho Nacional de Desenvolvimento Científico e Tecnológico* (CNPq) with scientific initiation scholarship.
+  - [Final paper](https://doi.org/10.1016/j.psycom.2023.100121) was published as an open access article at Psychiatry Research Communications.
 
 * 2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil
 
 ## Publications and preprints
+
+* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
 
 * [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](http://dx.doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**[^1], Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* accepted at *Acta Psychiatrica Scandinavica*. 2024.
 
@@ -86,3 +92,32 @@ title: "CV"
 * Reviewer: [Debates em Psiquiatria](https://revistardp.org.br/)
 * Reviewer: [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
 * Reviewer: [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
+
+## Citations
+
+```{r citation-plot}
+#| echo: false
+citations <- scholar::get_citation_history("dULhWr0AAAAJ")
+
+ggplot2::ggplot(citations, ggplot2::aes(x = year, y = cites)) +
+  ggplot2::geom_bar(stat = "identity", fill = "#EB4C14") +
+  ggplot2::theme_light(base_family = "IBM Plex Sans", base_size = 15) +
+  ggplot2::labs(
+    x = "Year of citation",
+    y = "Google Scholar cites",
+    caption = "Source: Google Scholar") +
+  ggplot2::scale_y_continuous(n.breaks = 11, guide = ) +
+  ggplot2::annotate(
+    "text",
+    label = paste0(
+      "Last updated: ",
+      format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")
+      ),
+    x = -Inf,
+    y = Inf,
+    vjust = 1.5,
+    hjust = -0.05,
+    size = 3,
+    colour = "gray"
+  )
+```
