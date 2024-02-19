@@ -100,8 +100,8 @@ title: "CV"
 citations <- scholar::get_citation_history("dULhWr0AAAAJ")
 
 ggplot2::ggplot(citations, ggplot2::aes(x = year, y = cites)) +
-  ggplot2::geom_bar(stat = "identity", fill = "#EB4C14") +
-  ggplot2::theme_light(base_family = "IBM Plex Sans", base_size = 15) +
+  ggplot2::geom_bar(stat = "identity", fill = "#4996F5", color = "black") +
+  ggplot2::theme_bw(base_family = "IBM Plex Sans", base_size = 15) +
   ggplot2::labs(
     x = "Year of citation",
     y = "Google Scholar cites",

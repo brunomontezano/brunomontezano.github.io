@@ -13,7 +13,8 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: litera
+    highlight-style: breeze
     css: styles.css
     toc: true
 

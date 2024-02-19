@@ -89,5 +89,26 @@
     "title": "CV",
     "section": "Citations",
     "text": "Citations"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Stop repeating yourself when coding!\n\n\n\nR\n\n\nProgramming\n\n\n\nWhen we repeat ourselves when programming, it is usually a sign that something is happening inefficiently.\n\n\n\nBruno Montezano\n\n\nFeb 19, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-02-19-vectors/index.html",
+    "href": "posts/2024-02-19-vectors/index.html",
+    "title": "Stop repeating yourself when coding!",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{montezano2024,\n  author = {Montezano, Bruno},\n  title = {Stop Repeating Yourself When Coding!},\n  date = {2024-02-19},\n  url = {https://brunomontezano.github.io/posts/2024-02-19-vectors/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMontezano, Bruno. 2024. “Stop Repeating Yourself When\nCoding!” February 19, 2024. https://brunomontezano.github.io/posts/2024-02-19-vectors/."
+  },
+  {
+    "objectID": "posts/2024-02-19-stop-repeating-yourself/index.html",
+    "href": "posts/2024-02-19-stop-repeating-yourself/index.html",
+    "title": "Stop repeating yourself when coding!",
+    "section": "",
+    "text": "In general, when we are programming, whether using R or any other programming language, when we notice that we start repeating ourselves over and over again, that is not a good sign. Not because our code will break or not do what we would like it to do, but it becomes less flexible, less adaptable and less scalable. In this blog post, I will try to give some possible solutions when we come across unnecessary repetitions in our code.\n\nWhat is the problem?\nLet’s suppose I have a data set with 10 rows (research participants) and seven columns (participant ID, age, and five items from an assessment instrument that I applied to each of those assessed). At the end of data collection, I realized that the items had been coded incorrectly, the levels were recorded from 1 to 5, but the instrument, to be corrected appropriately, must be coded from 0 to 4. Furthermore, the items 4 and 5 must be reverse coded, as they are in the opposite direction of the construct evaluated in relation to the other items on the scale.\n\nset.seed(1)\ntibble::tibble(\n  id = 1:10,\n  age = round(rnorm(n = 10, mean = 35, sd = 10)),\n  item_1 = sample(1:5, 10, replace = TRUE),\n  item_2 = sample(1:5, 10, replace = TRUE),\n  item_3 = sample(1:5, 10, replace = TRUE),\n  item_4 = sample(1:5, 10, replace = TRUE),\n  item_5 = sample(1:5, 10, replace = TRUE)\n)\n\n# A tibble: 10 × 7\n      id   age item_1 item_2 item_3 item_4 item_5\n   &lt;int&gt; &lt;dbl&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;  &lt;int&gt;\n 1     1    29      1      4      4      2      1\n 2     2    37      5      1      1      1      4\n 3     3    27      5      4      1      3      5\n 4     4    51      1      3      4      3      5\n 5     5    38      1      2      1      4      4\n 6     6    27      5      2      2      3      5\n 7     7    40      5      4      3      1      4\n 8     8    42      2      4      2      4      4\n 9     9    41      2      4      2      5      1\n10    10    32      1      2      5      1      5\n\n\n\n\nCreate your own functions\n\n\nUse purrr::map in your favor\n\n\nWhen changing columns with dplyr::mutate, remember dplyr::across\n\n\n\n\nCitationBibTeX citation:@online{montezano2024,\n  author = {Montezano, Bruno},\n  title = {Stop Repeating Yourself When Coding!},\n  date = {2024-02-19},\n  url = {https://brunomontezano.github.io/posts/2024-02-19-stop-repeating-yourself/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMontezano, Bruno. 2024. “Stop Repeating Yourself When\nCoding!” February 19, 2024. https://brunomontezano.github.io/posts/2024-02-19-stop-repeating-yourself/."
   }
 ]
