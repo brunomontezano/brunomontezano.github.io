@@ -95,29 +95,56 @@ title: "CV"
 
 ## Citations
 
-```{r citation-plot}
+```{r citation-plotly}
 #| echo: false
-citations <- scholar::get_citation_history("dULhWr0AAAAJ")
+citations <- scholar::get_citation_history("dULhWr0AAAAJ") |> 
+  dplyr::mutate(text = glue::glue("Year: {year}\nCitations: {cites}"))
 
-ggplot2::ggplot(citations, ggplot2::aes(x = year, y = cites)) +
-  ggplot2::geom_bar(stat = "identity", fill = "#4996F5", color = "black") +
-  ggplot2::theme_bw(base_family = "IBM Plex Sans", base_size = 15) +
-  ggplot2::labs(
-    x = "Year of citation",
-    y = "Google Scholar cites",
-    caption = "Source: Google Scholar") +
-  ggplot2::scale_y_continuous(n.breaks = 11, guide = ) +
-  ggplot2::annotate(
-    "text",
-    label = paste0(
-      "Last updated: ",
-      format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")
-      ),
-    x = -Inf,
-    y = Inf,
-    vjust = 1.5,
-    hjust = -0.05,
-    size = 3,
-    colour = "gray"
+citations_plot <- plotly::plot_ly(
+  data = citations,
+  x = ~ year,
+  y = ~ cites,
+  text = ~ text,
+  hoverinfo = "text",
+  textposition = "none",
+  name = "Google Scholar cites",
+  type = "bar",
+  marker = list(
+    color = 'rgb(73, 150, 245)',
+    line = list(color = 'rgb(0, 0, 0)',
+                width = 1.5)
   )
+) |>
+  plotly::layout(
+    yaxis = list(title = "Google Scholar cites",
+                 titlefont = list(size = 15),
+                 fixedrange = TRUE),
+    xaxis = list(
+      title = "Year",
+      titlefont = list(size = 15),
+      tickvals = as.list(2022:2024),
+      tickmode = "array",
+      fixedrange = TRUE
+    )
+  ) |>
+  plotly::add_annotations(
+    x = min(citations$year),
+    y = max(citations$cites) + 1,
+    text = paste0("Last updated: ",
+                  format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")),
+    showarrow = FALSE,
+    font = list(color = "grey90")
+  ) |>
+  plotly::config(
+    displayModeBar = TRUE,
+    displaylogo = FALSE,
+    modeBarButtonsToRemove = list(
+      "lasso2d",
+      "select2d",
+      "hoverClosestCartesian",
+      "hoverCompareCartesian"
+    )
+  )
+
+citations_plot
 ```
