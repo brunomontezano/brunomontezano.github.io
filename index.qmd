@@ -35,7 +35,9 @@ Sul (Brazil) and works as a researcher at the Laboratory of Molecular Psychiatry
 at Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).
 
 He has a scholarship from the Coordination for the Improvement of Higher
-Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno
+Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno is
+also funded by the National Council for Scientific and Technological Development
+(CNPq) through a national grant from a large mental health network. Bruno
 Montezano has extensive experience in quantitative data analysis and statistical
 computing, with expertise in the areas of machine learning and mental health
 outcomes.

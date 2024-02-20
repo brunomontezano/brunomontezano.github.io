@@ -5,17 +5,18 @@ title: "CV"
 ## Education
 
 * 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (CAPES) under the Academic Excellence Program (Proex)
-  
+  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (CAPES) under the Academic Excellence Program (Proex).
+  - Funded by *Conselho Nacional de Desenvolvimento Científico e Tecnológico* (CNPq) with Industrial Technological Development scholarship.
+
 * 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
   - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).
   - Dissertation: [Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos](http://hdl.handle.net/10183/266476) (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).
 
 * 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil
-  - Funded by the *Conselho Nacional de Desenvolvimento Científico e Tecnológico* (CNPq) with scientific initiation scholarship.
+  - Funded by *Conselho Nacional de Desenvolvimento Científico e Tecnológico* (CNPq) with Scientific Initiation scholarship.
   - [Final paper](https://doi.org/10.1016/j.psycom.2023.100121) was published as an open access article at Psychiatry Research Communications.
 
-* 2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Brazil
+* 2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brazil
 
 ## Publications and preprints
 
@@ -59,9 +60,18 @@ title: "CV"
 
 * [Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903). **Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book *Psicologia: Identidade Profissional e Compromisso Social* published by *Atena Editora*. 2021.
 
-## Courses taught
+## Courses 
 
-* [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). April, 2023.
+* [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April, 2023.
+  - I conducted a comprehensive Introduction to R course for researchers in the healthcare field, consisting of seven lectures under the umbrella of the [AlliaNCE (Artificial Intelligence in Neuroscience) research group](https://allianceresearchgroup.com/) at UFRGS. The course covered essential concepts related to data manipulation and analysis using the open-source programming language R. The curriculum included lectures, practical exercises, and weekly labs for hands-on application of learned concepts. The course website provided additional resources, such as recommended materials, FAQs, lecture slides, codes, and class recordings. Homework assignments with corresponding answer keys were available, and a tips section featured short videos illustrating data manipulation and analysis routines. The seven classes spanned topics from R introduction to machine learning applications, equipping participants with valuable skills for data-driven research in healthcare. 
+
+## Lectures
+
+* [Epidemiology and Phenomenology of Bipolar Disorder (in Portuguese)](https://youtu.be/l_2col7BlNI). Criciúma, SC. September 15, 2023.
+  - The lecture was given on September 15, 2023 at 1:30 p.m. at the XXI Symposium on Psychiatry at the Brain and Mind Interface, which took place at the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The lecture covered topics related to the epidemiology and phenomenology of bipolar disorder. The central theme of the event was "Bipolar disorder: from biological bases to treatment".
+
+* [What is Artificial Intelligence? (in Portuguese)](https://www.instagram.com/p/CwBTdtOpFuB/). Porto Alegre, RS. August 23, 2023.
+  - The lecture was given on August 23, 2023 at an event entitled "Open Class: Artificial Intelligence and Digital Psychiatry" organized by the League of Psychiatry and Mental Health (LIPSAM) of the Federal University of Health Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre. The lecture covered topics such as big data, machine learning, deep learning, the beginnings of AI, as well as aspects of data science applied to psychiatry from a historical perspective. It also addressed current applications of AI in the field of mental health and how a digital clinic can be envisioned for the future.
 
 ## Awards
 
@@ -71,7 +81,7 @@ title: "CV"
 
 * *Young Researcher Award*, [Congress on Brain, Behavior and Emotions 2022](https://www.braincongress.com.br/). Gramado, RS. 2022.
 
-* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, [Brazilian Federation of Cognitive Therapies](https://fbtc.org.br/). Online format. 2021.
+* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, [Brazilian Federation of Cognitive Therapies](https://fbtc.org.br/). Online. 2021.
 
 * *Highlight in the area of Human Sciences at the 28th Congress of Scientific Initiation*, [Federal University of Rio Grande](https://www.furg.br/en/). Rio Grande, RS. 2019.
 
