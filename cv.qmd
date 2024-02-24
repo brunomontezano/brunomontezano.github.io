@@ -19,13 +19,17 @@ title: "CV"
 
 ## Publications and preprints
 
-* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
+* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](#publications-and-preprints). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](http://dx.doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**[^1], Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* accepted at *Acta Psychiatrica Scandinavica*. 2024.
 
-[^1]: Joint first author.
+* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* accepted at the *Brazilian Journal of Psychiatry*. 2023.
+* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](http://dx.doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* accepted at *Acta Psychiatrica Scandinavica*. 2024.[^1]
+
+[^1]: Alan Cristian Rodrigues Jorge, Bruno Braga Montezano, and Kyara Rodrigues
+de Aguiar contributed equally to the manuscript and are jointly first authors.
+
+* [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* published at the *Brazilian Journal of Psychiatry*. 2023.
 
 * [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
 
