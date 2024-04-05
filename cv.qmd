@@ -77,6 +77,14 @@ de Aguiar contributed equally to the manuscript and are jointly first authors.
 * [What is Artificial Intelligence? (in Portuguese)](https://www.instagram.com/p/CwBTdtOpFuB/). Porto Alegre, RS. August 23, 2023.
   - The lecture was given on August 23, 2023 at an event entitled "Open Class: Artificial Intelligence and Digital Psychiatry" organized by the League of Psychiatry and Mental Health (LIPSAM) of the Federal University of Health Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre. The lecture covered topics such as big data, machine learning, deep learning, the beginnings of AI, as well as aspects of data science applied to psychiatry from a historical perspective. It also addressed current applications of AI in the field of mental health and how a digital clinic can be envisioned for the future.
 
+## Softwares
+
+* [Dashboard on suicide rates in Brazil from 2000 to 2021](https://brunomontezano.shinyapps.io/dashboard-suicidio/). Written in Quarto and R with Shiny as backend technology. 2024.
+    - Built based on pre-processed data by the [Plataforma de Ciência de Dados Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), affiliated to the Oswaldo Cruz Foundation.
+
+* [Simple randomization tool for clinical trials](https://brunomontezano.shinyapps.io/randomizacao-shiny/). Written in Shiny and R. 2024.
+    - This tool provides a solution for randomizing patients in clinical trials while maintaining blinding. Additionally, it offers the option for users to download tables locally.
+
 ## Awards
 
 * *Best Poster Award at the [ISBD 2023 Annual Conference](https://isbd2023.org/)*. International Society for Bipolar Disorders. Chicago, IL. 2023.
