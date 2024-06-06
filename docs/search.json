@@ -35,11 +35,25 @@
     "text": "Book chapters\n\nO uso da inteligência artificial para identificar doenças psiquiátricas. Montezano BB, Vecchia GFD, Lorenzoni IC, Passos IC. Chapter of the book Psiquiatria Digital published by Artmed. 2024.\nPredição de risco de suicídio utilizando técnicas de inteligência artificial. Roza TH, Montezano BB, Antonelli-Salgado T, Passos IC. Chapter of the book Psiquiatria Digital published by Artmed. 2024.\nThe Dawn of Digital Psychiatry. Zimerman A, Montezano BB, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book Digital Mental Health published by Springer Nature. 2023.\nSuicídio. Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, Montezano BB, Passos IC. Chapter of the book Psicofármacos: consulta rápida published by Artmed. 2023.\nRelação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens. Montezano BB, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book Psicologia: Identidade Profissional e Compromisso Social published by Atena Editora. 2021."
   },
   {
-    "objectID": "cv.html#courses-taught",
-    "href": "cv.html#courses-taught",
+    "objectID": "cv.html#courses",
+    "href": "cv.html#courses",
     "title": "CV",
-    "section": "Courses taught",
-    "text": "Courses taught\n\nIntroduction to R Course (in Portuguese). April, 2023."
+    "section": "Courses",
+    "text": "Courses\n\nIntroduction to R Course (in Portuguese). Online. April, 2023.\n\nI conducted a comprehensive Introduction to R course for researchers in the healthcare field, consisting of seven lectures under the umbrella of the AlliaNCE (Artificial Intelligence in Neuroscience) research group at UFRGS. The course covered essential concepts related to data manipulation and analysis using the open-source programming language R. The curriculum included lectures, practical exercises, and weekly labs for hands-on application of learned concepts. The course website provided additional resources, such as recommended materials, FAQs, lecture slides, codes, and class recordings. Homework assignments with corresponding answer keys were available, and a tips section featured short videos illustrating data manipulation and analysis routines. The seven classes spanned topics from R introduction to machine learning applications, equipping participants with valuable skills for data-driven research in healthcare."
+  },
+  {
+    "objectID": "cv.html#lectures",
+    "href": "cv.html#lectures",
+    "title": "CV",
+    "section": "Lectures",
+    "text": "Lectures\n\nEpidemiology and Phenomenology of Bipolar Disorder (in Portuguese). Criciúma, SC. September 15, 2023.\n\nThe lecture was given on September 15, 2023 at 1:30 p.m. at the XXI Symposium on Psychiatry at the Brain and Mind Interface, which took place at the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The lecture covered topics related to the epidemiology and phenomenology of bipolar disorder. The central theme of the event was “Bipolar disorder: from biological bases to treatment”.\n\nWhat is Artificial Intelligence? (in Portuguese). Porto Alegre, RS. August 23, 2023.\n\nThe lecture was given on August 23, 2023 at an event entitled “Open Class: Artificial Intelligence and Digital Psychiatry” organized by the League of Psychiatry and Mental Health (LIPSAM) of the Federal University of Health Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre. The lecture covered topics such as big data, machine learning, deep learning, the beginnings of AI, as well as aspects of data science applied to psychiatry from a historical perspective. It also addressed current applications of AI in the field of mental health and how a digital clinic can be envisioned for the future."
+  },
+  {
+    "objectID": "cv.html#softwares",
+    "href": "cv.html#softwares",
+    "title": "CV",
+    "section": "Softwares",
+    "text": "Softwares\n\nDashboard on suicide rates in Brazil from 2000 to 2021. Written in Quarto and R with Shiny as backend technology. 2024.\n\nBuilt based on pre-processed data by the Plataforma de Ciência de Dados Aplicada à Saúde, affiliated to the Oswaldo Cruz Foundation.\n\nSimple randomization tool for clinical trials. Written in Shiny and R. 2024.\n\nThis tool provides a solution for randomizing patients in clinical trials while maintaining blinding. Additionally, it offers the option for users to download tables locally."
   },
   {
     "objectID": "cv.html#awards",
@@ -75,26 +89,5 @@
     "title": "CV",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nAlan Cristian Rodrigues Jorge, Bruno Braga Montezano, and Kyara Rodrigues de Aguiar contributed equally to the manuscript and are jointly first authors.↩︎"
-  },
-  {
-    "objectID": "cv.html#courses",
-    "href": "cv.html#courses",
-    "title": "CV",
-    "section": "Courses",
-    "text": "Courses\n\nIntroduction to R Course (in Portuguese). Online. April, 2023.\n\nI conducted a comprehensive Introduction to R course for researchers in the healthcare field, consisting of seven lectures under the umbrella of the AlliaNCE (Artificial Intelligence in Neuroscience) research group at UFRGS. The course covered essential concepts related to data manipulation and analysis using the open-source programming language R. The curriculum included lectures, practical exercises, and weekly labs for hands-on application of learned concepts. The course website provided additional resources, such as recommended materials, FAQs, lecture slides, codes, and class recordings. Homework assignments with corresponding answer keys were available, and a tips section featured short videos illustrating data manipulation and analysis routines. The seven classes spanned topics from R introduction to machine learning applications, equipping participants with valuable skills for data-driven research in healthcare."
-  },
-  {
-    "objectID": "cv.html#lectures",
-    "href": "cv.html#lectures",
-    "title": "CV",
-    "section": "Lectures",
-    "text": "Lectures\n\nEpidemiology and Phenomenology of Bipolar Disorder (in Portuguese). Criciúma, SC. September 15, 2023.\n\nThe lecture was given on September 15, 2023 at 1:30 p.m. at the XXI Symposium on Psychiatry at the Brain and Mind Interface, which took place at the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The lecture covered topics related to the epidemiology and phenomenology of bipolar disorder. The central theme of the event was “Bipolar disorder: from biological bases to treatment”.\n\nWhat is Artificial Intelligence? (in Portuguese). Porto Alegre, RS. August 23, 2023.\n\nThe lecture was given on August 23, 2023 at an event entitled “Open Class: Artificial Intelligence and Digital Psychiatry” organized by the League of Psychiatry and Mental Health (LIPSAM) of the Federal University of Health Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre. The lecture covered topics such as big data, machine learning, deep learning, the beginnings of AI, as well as aspects of data science applied to psychiatry from a historical perspective. It also addressed current applications of AI in the field of mental health and how a digital clinic can be envisioned for the future."
-  },
-  {
-    "objectID": "cv.html#softwares",
-    "href": "cv.html#softwares",
-    "title": "CV",
-    "section": "Softwares",
-    "text": "Softwares\n\nDashboard on suicide rates in Brazil from 2000 to 2021. Written in Quarto and R with Shiny as backend technology. 2024.\n\nBuilt based on pre-processed data by the Plataforma de Ciência de Dados Aplicada à Saúde, affiliated to the Oswaldo Cruz Foundation.\n\nSimple randomization tool for clinical trials. Written in Shiny and R. 2024.\n\nThis tool provides a solution for randomizing patients in clinical trials while maintaining blinding. Additionally, it offers the option for users to download tables locally."
   }
 ]
