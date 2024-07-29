@@ -20,17 +20,17 @@ title: "CV"
 
 ## Publications and preprints
 
-* [Subcutaneous ketamine reduces suicide risk and improves functioning in depression: a proof-of-concept study](#publications-and-preprints). Anzolin AP, Baldez DP, **Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Article* accepted at the *Psychiatry Research*. 2024.
+* [Subcutaneous ketamine reduces suicide risk and improves functioning in depression: a proof-of-concept study](https://doi.org/10.1016/j.psychres.2024.115915). Anzolin AP, Baldez DP, **Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Article* published at the *Psychiatry Research*. 2024.
 
 * [The role of parental stress on emotional and behavioral problems in offspring: a systematic review with meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH, **Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Article* accepted at *Jornal de Pediatria*. 2024.
 
 * [Exploring protective factors in a high-risk subsample: the pivotal role of paternal support in preventing depression in a cohort of young adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B, **Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Kapczinski F, Jansen K, Passos IC. *Article* accepted at *Trends in Psychiatry and Psychotherapy*. 2024.
 
-* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](#publications-and-preprints). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
+* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
 
 * [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](http://dx.doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* accepted at *Acta Psychiatrica Scandinavica*. 2024.[^1]
+* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](https://doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* published at *Acta Psychiatrica Scandinavica*. 2024.[^1]
 
 [^1]: Alan Cristian Rodrigues Jorge, Bruno Braga Montezano, and Kyara Rodrigues
 de Aguiar contributed equally to the manuscript and are jointly first authors.
