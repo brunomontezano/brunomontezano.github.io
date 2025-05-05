@@ -7,6 +7,8 @@ title: "CV"
 * 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
   - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (CAPES) under the Academic Excellence Program (Proex).
 
+* 2023 — 2024: Training in Cognitive-Behavioral Therapies, Institute of Neuroscience and Cognitive Therapies (INTCognitivas), Porto Alegre, Rio Grande do Sul, Brazil
+
 * 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
   - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).
   - Dissertation: [Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos](http://hdl.handle.net/10183/266476) (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).
@@ -20,15 +22,19 @@ title: "CV"
 
 ## Publications and preprints
 
+* [Clinical and lifestyle predictors of loneliness: A two-year longitudinal study](https://doi.org/10.1016/j.jpsychires.2024.11.025). Antonelli-Salgado T, **Montezano BB**, Roza TH, Bouvier V, Zimerman A, Noronha LT, Marcon G, Hoffmann MS, Brunoni AR, Passos IC. *Article* published at the *Journal of Psychiatric Research*. 2024.
+
+* [Predictors of response after single session interventions for emotional distress: using enhanced psychoeducation in crisis situations](http://dx.doi.org/10.47626/1516-4446-2024-3749). Ache ALS, Baldez DP, **Montezano BB**, Mosqueiro BP, Caldieraro MA, Spanemberg L, Salum GA, Fleck MP. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
+
 * [Subcutaneous ketamine reduces suicide risk and improves functioning in depression: a proof-of-concept study](https://doi.org/10.1016/j.psychres.2024.115915). Anzolin AP, Baldez DP, **Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Article* published at the *Psychiatry Research*. 2024.
 
-* [The role of parental stress on emotional and behavioral problems in offspring: a systematic review with meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH, **Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Article* accepted at *Jornal de Pediatria*. 2024.
+* [The role of parental stress on emotional and behavioral problems in offspring: a systematic review with meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH, **Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Article* published at *Jornal de Pediatria*. 2024.
 
-* [Exploring protective factors in a high-risk subsample: the pivotal role of paternal support in preventing depression in a cohort of young adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B, **Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Kapczinski F, Jansen K, Passos IC. *Article* accepted at *Trends in Psychiatry and Psychotherapy*. 2024.
+* [Exploring protective factors in a high-risk subsample: the pivotal role of paternal support in preventing depression in a cohort of young adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B, **Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Kapczinski F, Jansen K, Passos IC. *Article* published at *Trends in Psychiatry and Psychotherapy*. 2024.
 
-* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
+* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC. *Article* accepted at the *Brazilian Journal of Psychiatry*. 2024.
+* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
 
 * [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](https://doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* published at *Acta Psychiatrica Scandinavica*. 2024.[^1]
 
@@ -39,7 +45,7 @@ de Aguiar contributed equally to the manuscript and are jointly first authors.
 
 * [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
 
-* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* accepted at the *Brazilian Journal of Psychiatry*. 2023.
+* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* published at the *Brazilian Journal of Psychiatry*. 2023.
 
 * [Predicting bipolar disorder incidence in young adults using gradient boosting: a 5-year follow-up study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
 
@@ -76,6 +82,15 @@ de Aguiar contributed equally to the manuscript and are jointly first authors.
 
 ## Lectures
 
+* [Large Language Models in Mental Health](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS. August 31, 2024.
+  - The lecture was given on August 31, 2024 at the Digital Meantal Health Meeting, which took place at the Instituto Caldeira in Porto Alegre. The lecture covered topics related to new language AI models and how they can be used in for mental health related scenarios.
+
+* [Big Data in Mental Health (in Portuguese)](https://youtu.be/Hduz2YOusiA?si=BZcV0HenNq-kKu8C). Porto Alegre, RS. August 31, 2024.
+  - The lecture was given on August 31, 2024 at the Digital Mental Health Meeting, which took place at the Instituto Caldeira in Porto Alegre. The lecture covered topics related to the interface between big data and mental health, focusing on data science in psychiatry.
+
+* [RISE Project: Stratification of suicide risk in the Brazilian population (in Portuguese)](https://youtu.be/kWLyciMi7s0?si=cTJ-Ckf6Tya45Xkh). Online. July 29, 2024.
+  - The lecture was given on July 29, 2024 via web conference. The lecture covered topics related to a multicenter research project that I'm part of. The central theme of the seminar was "Suicidal behavior, bipolar disorder and borderline personality".
+
 * [Epidemiology and Phenomenology of Bipolar Disorder (in Portuguese)](https://youtu.be/l_2col7BlNI). Criciúma, SC. September 15, 2023.
   - The lecture was given on September 15, 2023 at 1:30 p.m. at the XXI Symposium on Psychiatry at the Brain and Mind Interface, which took place at the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The lecture covered topics related to the epidemiology and phenomenology of bipolar disorder. The central theme of the event was "Bipolar disorder: from biological bases to treatment".
 
@@ -92,6 +107,8 @@ de Aguiar contributed equally to the manuscript and are jointly first authors.
 
 ## Awards
 
+* *[Prêmio Tese FAMED 2024](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/) (Best Master's dissertation defended between 01/01/2023 and 12/31/2023, in the Postgraduate programs of the School of Medicine of the Federal University of Rio Grande do Sul)*. Federal University of Rio Grande do Sul. Porto Alegre, RS. 2024.
+
 * *Best Poster Award at the [ISBD 2023 Annual Conference](https://isbd2023.org/)*. International Society for Bipolar Disorders. Chicago, IL. 2023.
 
 * *Mitacs Globalink Research Award*. Project: Machine learning and women's mental health: using bleeding-edge methods to understand premenstrual and mood symptoms. Collaboration with McMaster University (Hamilton, ON). [Mitacs](https://www.mitacs.ca/en). 2023.
@@ -104,9 +121,11 @@ de Aguiar contributed equally to the manuscript and are jointly first authors.
 
 ## Media and press releases
 
-* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
+* [Prêmio Tese FAMED 2024: Conheça os vencedores](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/). Universidade Federal do Rio Grande do Sul. December 11, 2024.
 
 * [Egressos do curso de Psicologia da UCPel são destaque em premiação internacional.](https://ucpel.edu.br/noticias/egressos-do-curso-de-psicologia-da-ucpel-sao-destaque-em-premiacao-internacional) Universidade Católica de Pelotas. June 29, 2023.
+
+* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
 
 ## Roles
 
