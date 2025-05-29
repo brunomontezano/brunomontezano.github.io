@@ -1,8 +1,9 @@
 project:
   title: "Bruno Montezano | Psychologist & Data Analyst"
-  output-dir: ./docs/en-us
+  output-dir: ./docs/en
 
 website:
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -12,10 +13,10 @@ website:
     right:
       - href: ../
         text: 🇧🇷
-      - href: ../en-us
+      - href: ../en
         text: 🇺🇸
 
-lang: en-us
+lang: en
 
 format:
   html:
