@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0002-4627-1776
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en
-    - text: Lattes Curriculum
+    - text: Lattes CV
       href: https://lattes.cnpq.br/5680118320056968
     - text: YouTube
       href: https://www.youtube.com/@brunomontezano/
@@ -25,29 +25,71 @@ about:
       href: mailto:bmontezano@hcpa.edu.br
 ---
 
-Bruno Montezano is a master in Psychiatry and Behavioral Sciences from the
-Federal University of Rio Grande do Sul (2023), computer technician from the
-Federal Institute of Education, Science and Technology of Rio Grande do Sul
-(2015) and psychologist (CRP 07/38086) graduated from the Catholic University of
-Pelotas in 2021. He is currently a PhD student at the Graduate Program in
-Psychiatry and Behavioral Sciences of the Federal University of Rio Grande do
-Sul (Brazil) and works as a researcher at the Laboratory of Molecular Psychiatry
-at Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).
+::: {.content-visible when-profile="english"}
+Bruno Montezano holds a master's degree in Psychiatry and Behavioral Sciences
+from the Federal University of Rio Grande do Sul (2023), is a computer
+technician from the Federal Institute of Education, Science and Technology of
+Rio Grande do Sul (2015) and a psychologist (CRP 07/38086) from the Catholic
+University of Pelotas (2021). He is currently studying for a PhD in Psychiatry
+and Behavioral Sciences at the Federal University of Rio Grande do Sul (UFRGS)
+and works as a researcher at the Molecular Psychiatry Laboratory and Clinical
+Research Center at the Hospital de Clínicas de Porto Alegre (HCPA/UFRGS).
+
 
 He has a scholarship from the Coordination for the Improvement of Higher
-Education Personnel (CAPES) in the Academic Excellence Program (Proex). Bruno
-Montezano has extensive experience in quantitative data analysis and statistical
-computing, with expertise in the areas of machine learning and mental health
-outcomes.
+Education Personnel (CAPES) under the Academic Excellence Program (Proex).
+Bruno Montezano has extensive experience in quantitative data analysis and
+statistical computing, with experience in the areas of machine learning and
+mental health outcomes.
 
-He has published in several high-impact psychiatry focused scientific journals
-such as The Lancet. He is director and member of the AlliaNCE (Artificial
-Intelligence in Neuroscience) research group coordinated by Dr. Ives Cavalcante
-Passos. In May 2023, he received the Mitacs Globalink Research Award to be
-funded for an internship at McMaster University in Canada to work on the
-interface between women's mental health and machine learning. Since June 2023,
-he has also served as an assistant editor at the Brazilian Journal of
-Psychiatry. In the second semester of 2023, he presented the results of his
-dissertation on the interface between bipolar disorder and artificial
-intelligence techniques at the 25th Annual Conference of the International
-Society for Bipolar Disorders (ISBD) in Chicago (USA).
+In 2025, he co-founded Método, a company that aims to offer training and
+solutions in data analysis and health research. He has published in several
+high-impact scientific journals in the field of psychiatry. He is director and
+member of the AlliaNCE (Artificial Intelligence in Neuroscience) research group
+coordinated by Dr. Ives Cavalcante Passos. In May 2023, he received the Mitacs
+Globalink Research Award to be funded for an internship at McMaster University
+in Canada to work on the interface between women's mental health and machine
+learning. Since June 2023, he has also been an assistant editor at the
+Brazilian Journal of Psychiatry. In the second half of 2023, he presented the
+results of his dissertation on the interface between bipolar disorder and
+artificial intelligence techniques at the 25th Annual Conference of the
+International Society for Bipolar Disorders (ISBD) in Chicago (USA). At the end
+of 2024, he won the FAMED 2024 Best Dissertation award at an event that
+honored the best theses and dissertations defended between 2023 and 2024 in the
+Graduate Programs of the UFRGS School of Medicine.
+:::
+
+::: {.content-visible when-profile="portuguese"}
+Bruno Montezano é mestre em Psiquiatria e Ciências do Comportamento (conceito
+CAPES 7) pela Universidade Federal do Rio Grande do Sul (2023), técnico em
+informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio
+Grande do Sul - Câmpus Ibirubá (2015) e psicólogo (CRP 07/38086) graduado pela
+Universidade Católica de Pelotas (2021). Atualmente, cursa doutorado em
+Psiquiatria e Ciências do Comportamento pela Universidade Federal do Rio Grande
+do Sul (UFRGS) e trabalha como pesquisador no Laboratório de Psiquiatria
+Molecular e Centro de Pesquisa Clínica do Hospital de Clínicas de Porto Alegre
+(HCPA/UFRGS).
+
+
+Ele é bolsista pela Coordenação de Aperfeiçoamento de Pessoal de
+Nível Superior (CAPES) no Programa de Excelência Acadêmica (Proex). Bruno
+Montezano possui vasta experiência em análise quantitativa de dados e
+computação estatística, com experiência nas áreas de aprendizado de máquina e
+desfechos em saúde mental.
+
+Em 2025, co-fundou a Método, empresa que visa oferecer formação e soluções em
+análise de dados e pesquisa em saúde. Já publicou em diversos periódicos
+científicos de alto impacto no campo da psiquiatria. É diretor e integrante do
+grupo de pesquisa AlliaNCE (Artificial Intelligence in Neuroscience) coordenado
+pelo Dr. Ives Cavalcante Passos. Em maio de 2023, recebeu o Mitacs Globalink
+Research Award para ser financiado em um estágio na McMaster University no
+Canadá para trabalhar na interface entre saúde mental da mulher e aprendizado
+de máquina. Desde junho de 2023, também atua como editor assistente na Revista
+Brasileira de Psiquiatria. No segundo semestre de 2023, apresentou os
+resultados de sua dissertação na interface entre transtorno bipolar e técnicas
+de inteligência artificial na 25\textsuperscript{a} Conferência Anual da
+Sociedade Internacional para Transtornos Bipolares (ISBD) em Chicago (EUA). Ao
+final de 2024, venceu o prêmio de Melhor Dissertação FAMED 2024 em evento que
+premiou as melhores teses e dissertações defendidas entre 2023 e 2024, nos
+programas de Pós-Graduação da Faculdade de Medicina da UFRGS.
+:::

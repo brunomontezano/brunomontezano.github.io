@@ -2,177 +2,376 @@
 title: "CV"
 ---
 
-## Education
+::: {.content-visible when-profile="english"}
+##  🎓 Education
 
-* 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (CAPES) under the Academic Excellence Program (Proex).
+* 2023 — current: PhD in Psychiatry and Behavioral Sciences, Department of
+Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande
+do Sul, Brazil
+  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior*
+  (CAPES) under the Academic Excellence Program (Proex).
 
-* 2023 — 2024: Training in Cognitive-Behavioral Therapies, Institute of Neuroscience and Cognitive Therapies (INTCognitivas), Porto Alegre, Rio Grande do Sul, Brazil
+* 2023 — 2024: Training in Cognitive-Behavioral Therapies, Institute of
+Neuroscience and Cognitive Therapies (INTCognitivas), Porto Alegre, Rio Grande
+do Sul, Brazil
 
-* 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior* (Coordination of Superior Level Staff Improvement) under the Academic Excellence Program (Proex).
-  - Dissertation: [Predição de transtorno bipolar e desfechos funcionais em adultos jovens: um acompanhamento de cinco anos](http://hdl.handle.net/10183/266476) (English translation: Predicting bipolar disorder and functional outcomes in young adults: a five-year follow-up).
-  - Dissertation defense: [Virtual session recording](https://youtu.be/s8ccoTtqgLI)
+* 2022 — 2023: MSc in Psychiatry and Behavioral Sciences, Department of
+Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande
+do Sul, Brazil
+  - Funded by *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior*
+  (Coordination of Superior Level Staff Improvement) under the Academic
+  Excellence Program (Proex). Dissertation: [Predição de transtorno bipolar e
+  desfechos funcionais em adultos jovens: um acompanhamento de cinco
+  anos](http://hdl.handle.net/10183/266476) (English translation: Predicting
+  bipolar disorder and functional outcomes in young adults: a five-year
+  follow-up). Dissertation defense: [Virtual session
+  recording](https://youtu.be/s8ccoTtqgLI)
 
-* 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas, Rio Grande do Sul, Brazil
-  - Funded by *Conselho Nacional de Desenvolvimento Científico e Tecnológico* (CNPq) with Scientific Initiation scholarship.
-  - [Final paper](https://doi.org/10.1016/j.psycom.2023.100121) was published as an open access article at Psychiatry Research Communications.
+* 2016 — 2021: BSc in Psychology, Department of Psychology, Catholic University
+of Pelotas, Pelotas, Rio Grande do Sul, Brazil
+  - Funded by *Conselho Nacional de Desenvolvimento Científico e Tecnológico*
+  (CNPq) with Scientific Initiation scholarship. [Final
+  paper](https://doi.org/10.1016/j.psycom.2023.100121) was published as an open
+  access article at Psychiatry Research Communications.
 
-* 2013 — 2015: Technical Course in Computer Science, Federal Institute of Education, Science and Technology of Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brazil
+* 2013 — 2015: Technical Course in Computer Science, Federal Institute of
+Education, Science and Technology of Rio Grande do Sul, Ibirubá, Rio Grande do
+Sul, Brazil
 
-## Publications and preprints
+## 📝 Publications and preprints
 
-* [Clinical and lifestyle predictors of loneliness: A two-year longitudinal study](https://doi.org/10.1016/j.jpsychires.2024.11.025). Antonelli-Salgado T, **Montezano BB**, Roza TH, Bouvier V, Zimerman A, Noronha LT, Marcon G, Hoffmann MS, Brunoni AR, Passos IC. *Article* published at the *Journal of Psychiatric Research*. 2024.
+* [Clinical and lifestyle predictors of loneliness: A two-year longitudinal
+study](https://doi.org/10.1016/j.jpsychires.2024.11.025). Antonelli-Salgado T,
+**Montezano BB**, Roza TH, Bouvier V, Zimerman A, Noronha LT, Marcon G,
+Hoffmann MS, Brunoni AR, Passos IC. *Article* published at the *Journal of
+Psychiatric Research*. 2024.
 
-* [Predictors of response after single session interventions for emotional distress: using enhanced psychoeducation in crisis situations](http://dx.doi.org/10.47626/1516-4446-2024-3749). Ache ALS, Baldez DP, **Montezano BB**, Mosqueiro BP, Caldieraro MA, Spanemberg L, Salum GA, Fleck MP. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
+* [Predictors of response after single session interventions for emotional
+distress: using enhanced psychoeducation in crisis
+situations](http://dx.doi.org/10.47626/1516-4446-2024-3749). Ache ALS, Baldez
+DP, **Montezano BB**, Mosqueiro BP, Caldieraro MA, Spanemberg L, Salum GA,
+Fleck MP. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Subcutaneous ketamine reduces suicide risk and improves functioning in depression: a proof-of-concept study](https://doi.org/10.1016/j.psychres.2024.115915). Anzolin AP, Baldez DP, **Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Article* published at the *Psychiatry Research*. 2024.
+* [Subcutaneous ketamine reduces suicide risk and improves functioning in
+depression: a proof-of-concept
+study](https://doi.org/10.1016/j.psychres.2024.115915). Anzolin AP, Baldez DP,
+**Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Article* published
+at the *Psychiatry Research*. 2024.
 
-* [The role of parental stress on emotional and behavioral problems in offspring: a systematic review with meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH, **Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Article* published at *Jornal de Pediatria*. 2024.
+* [The role of parental stress on emotional and behavioral problems in
+offspring: a systematic review with
+meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH,
+**Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Article* published at
+*Jornal de Pediatria*. 2024.
 
-* [Exploring protective factors in a high-risk subsample: the pivotal role of paternal support in preventing depression in a cohort of young adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B, **Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Kapczinski F, Jansen K, Passos IC. *Article* published at *Trends in Psychiatry and Psychotherapy*. 2024.
+* [Exploring protective factors in a high-risk subsample: the pivotal role of
+paternal support in preventing depression in a cohort of young
+adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B,
+**Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA,
+Kapczinski F, Jansen K, Passos IC. *Article* published at *Trends in Psychiatry
+and Psychotherapy*. 2024.
 
-* [Protective factors against depression in high-risk children and adolescents: a systematic review of longitudinal studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B, Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD, Bebber JC, Noronha LT, Passos IC. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
+* [Protective factors against depression in high-risk children and adolescents:
+a systematic review of longitudinal
+studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B,
+Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD,
+Bebber JC, Noronha LT, Passos IC. *Article* published at the *Brazilian Journal
+of Psychiatry*. 2024.
 
-* [Perinatal factors as risk factors of bipolar disorder onset in young adulthood: a 22-year birth cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC, Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC. *Article* published at the *Brazilian Journal of Psychiatry*. 2024.
+* [Perinatal factors as risk factors of bipolar disorder onset in young
+adulthood: a 22-year birth
+cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano
+BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC,
+Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC.
+*Article* published at the *Brazilian Journal of Psychiatry*. 2024.
 
-* [Early exposure to cannabis and bipolar disorder incidence: Findings from a 22-year birth cohort study in Brazil](https://doi.org/10.1111/acps.13670). Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article* published at *Acta Psychiatrica Scandinavica*. 2024.[^1]
+* [Early exposure to cannabis and bipolar disorder incidence: Findings from a
+22-year birth cohort study in Brazil](https://doi.org/10.1111/acps.13670).
+Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes
+AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Article*
+published at *Acta Psychiatrica Scandinavica*. 2024. *Note:* Alan Cristian
+Rodrigues Jorge, Bruno Braga Montezano, and Kyara Rodrigues de Aguiar
+contributed equally to the manuscript and are jointly first authors.
 
-[^1]: Alan Cristian Rodrigues Jorge, Bruno Braga Montezano, and Kyara Rodrigues
-de Aguiar contributed equally to the manuscript and are jointly first authors.
+* [Autophagy-based
+antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F,
+**Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* published at
+the *Brazilian Journal of Psychiatry*. 2023.
 
-* [Autophagy-based antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F, **Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* published at the *Brazilian Journal of Psychiatry*. 2023.
+* [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6).
+Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The
+Lancet*. 2023.
 
-* [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6). Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* published at *The Lancet*. 2023.
+* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve
+Assessment Scale in Health
+(CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-).
+Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**,
+Goularte JF, Rosa AR. *Brief Report* published at the *Brazilian Journal of
+Psychiatry*. 2023.
 
-* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve Assessment Scale in Health (CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-). Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**, Goularte JF, Rosa AR. *Brief Report* published at the *Brazilian Journal of Psychiatry*. 2023.
+* [Predicting bipolar disorder incidence in young adults using gradient
+boosting: a 5-year follow-up
+study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka
+V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva
+RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
 
-* [Predicting bipolar disorder incidence in young adults using gradient boosting: a 5-year follow-up study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva RA, Mondin TC, Jansen K, Passos IC. *Preprint*  at *MedRxiv*. 2023.
+* [Associations between general sleep quality and measures of functioning and
+cognition in subjects recently diagnosed with bipolar
+disorder](https://doi.org/10.1016/j.psycom.2023.100121).  **Montezano BB**,
+Cardoso TA, Souza LDM, Moreira FP, Mondin TC, Silva RA, Jansen K. *Article*
+published at *Psychiatry Research Communications*. 2023.
 
-* [Associations between general sleep quality and measures of functioning and cognition in subjects recently diagnosed with bipolar disorder](https://doi.org/10.1016/j.psycom.2023.100121).  **Montezano BB**, Cardoso TA, Souza LDM, Moreira FP, Mondin TC, Silva RA, Jansen K. *Article* published at *Psychiatry Research Communications*. 2023.
+* [Validation of the Brazilian version of the Processes of Change Questionnaire
+in Weight Management in adults with overweight and obesity in
+Brazil](https://doi.org/10.1101/2023.03.20.23287450). Carvalho Q, Ziani PR,
+**Montezano BB**, Goularte JF, Rosa AR. *Preprint* at *MedRxiv*. 2023.
 
-* [Validation of the Brazilian version of the Processes of Change Questionnaire in Weight Management in adults with overweight and obesity in Brazil](https://doi.org/10.1101/2023.03.20.23287450). Carvalho Q, Ziani PR, **Montezano BB**, Goularte JF, Rosa AR. *Preprint* at *MedRxiv*. 2023.
+* [Predictors of illicit substance abuse/dependence during young adulthood: A
+machine learning approach](https://doi.org/10.1016/j.jpsychires.2022.11.030).
+Rakovski C, Ballester PL, **Montezano BB**, Souza LDM, Jansen K, Silva RA,
+Mondin TC, Moreira FP, De Boni RB, Frey BN, Kapczinski F, Cardoso TA. *Article*
+published in *Journal of Psychiatric Research*. 2023.
 
-* [Predictors of illicit substance abuse/dependence during young adulthood: A machine learning approach](https://doi.org/10.1016/j.jpsychires.2022.11.030). Rakovski C, Ballester PL, **Montezano BB**, Souza LDM, Jansen K, Silva RA, Mondin TC, Moreira FP, De Boni RB, Frey BN, Kapczinski F, Cardoso TA. *Article* published in *Journal of Psychiatric Research*. 2023.
+* [Predicting 3-year persistent or recurrent major depressive episode using
+machine learning techniques](https://doi.org/10.1016/j.psycom.2022.100055).
+Fialho AR, **Montezano BB**, Ballester PL, Cardoso TA, Mondin TC, Moreira FP,
+Souza LDM, Silva RA, Jansen K. *Article* published in *Psychiatry Research
+Communications*. 2022.
 
-* [Predicting 3-year persistent or recurrent major depressive episode using machine learning techniques](https://doi.org/10.1016/j.psycom.2022.100055). Fialho AR, **Montezano BB**, Ballester PL, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA, Jansen K. *Article* published in *Psychiatry Research Communications*. 2022.
+* [Personality disorders as predictors for the conversion from major depressive
+disorder to bipolar disorder: A prospective cohort
+study](https://doi.org/10.1016/j.psycom.2022.100068). Ávila GB, **Montezano
+BB**, Souza LDM, Cardoso TA, Silva RA, Mondin TC, Moreira FP, Jansen K.
+*Article* published in *Psychiatry Research Communications*. 2022.
 
-* [Personality disorders as predictors for the conversion from major depressive disorder to bipolar disorder: A prospective cohort study](https://doi.org/10.1016/j.psycom.2022.100068). Ávila GB, **Montezano BB**, Souza LDM, Cardoso TA, Silva RA, Mondin TC, Moreira FP, Jansen K. *Article* published in *Psychiatry Research Communications*. 2022.
+* [Sleep alterations as a predictor of bipolar disorder among offspring of
+parents with bipolar disorder: a systematic review and
+meta-analysis](https://doi.org/10.47626/2237-6089-2021-0256). Aguiar KR,
+Cabelleira MD, **Montezano BB**, Jansen K, Cardoso TA. *Article* published in
+*Trends in Psychiatry and Psychotherapy*. 2022.
 
-* [Sleep alterations as a predictor of bipolar disorder among offspring of parents with bipolar disorder: a systematic review and meta-analysis](https://doi.org/10.47626/2237-6089-2021-0256). Aguiar KR, Cabelleira MD, **Montezano BB**, Jansen K, Cardoso TA. *Article* published in *Trends in Psychiatry and Psychotherapy*. 2022.
+* [Predicting functional impairment in euthymic patients with mood disorder: A
+5-year follow-up](https://doi.org/10.1016/j.psychres.2023.115404). Aguiar KR,
+**Montezano BB**, Feiten JG, Watts D, Zimerman A, Mondin TC, Silva RA, Souza
+LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Article* published in
+*Psychiatry Research*. 2023.
 
-* [Predicting functional impairment in euthymic patients with mood disorder: A 5-year follow-up](https://doi.org/10.1016/j.psychres.2023.115404). Aguiar KR, **Montezano BB**, Feiten JG, Watts D, Zimerman A, Mondin TC, Silva RA, Souza LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Article* published in *Psychiatry Research*. 2023.
+## 📚 Book chapters
 
-## Book chapters
+* [Circadian Rhythms in Patients with Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). **Montezano BB**.
+Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
+published by *Springer Nature*. 2025.
 
-* [Circadian Rhythms in Patients with Bipolar Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). **Montezano BB**. Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide* published by *Springer Nature*. 2025.
+* [Substance Use Disorder in the Course of Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**.
+Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
+published by *Springer Nature*. 2025.
 
-* [Substance Use Disorder in the Course of Bipolar Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**. Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide* published by *Springer Nature*. 2025.
+* [Prodromal Symptoms and Risk Markers of Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). **Montezano BB**.
+Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
+published by *Springer Nature*. 2025.
 
-* [Prodromal Symptoms and Risk Markers of Bipolar Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). **Montezano BB**. Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide* published by *Springer Nature*. 2025.
+* [O uso da inteligência artificial para identificar doenças
+psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
+**Montezano BB**, Vecchia GFD, Lorenzoni IC, Passos IC. Chapter of the book
+*Psiquiatria Digital* published by *Artmed*. 2024.
 
-* [O uso da inteligência artificial para identificar doenças psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609). **Montezano BB**, Vecchia GFD, Lorenzoni IC, Passos IC. Chapter of the book *Psiquiatria Digital* published by *Artmed*. 2024.
+* [Predição de risco de suicídio utilizando técnicas de inteligência
+artificial](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
+Roza TH, **Montezano BB**, Antonelli-Salgado T, Passos IC. Chapter of the book
+*Psiquiatria Digital* published by *Artmed*. 2024.
 
-* [Predição de risco de suicídio utilizando técnicas de inteligência artificial](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609). Roza TH, **Montezano BB**, Antonelli-Salgado T, Passos IC. Chapter of the book *Psiquiatria Digital* published by *Artmed*. 2024.
+* [The Dawn of Digital
+Psychiatry](https://doi.org/10.1007/978-3-031-10698-9_1). Zimerman A,
+**Montezano BB**, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book
+*Digital Mental Health* published by *Springer Nature*. 2023.
 
-* [The Dawn of Digital Psychiatry](https://doi.org/10.1007/978-3-031-10698-9_1). Zimerman A, **Montezano BB**, Vecchia GFD, Kapczinski F, Passos IC. Chapter of the book *Digital Mental Health* published by *Springer Nature*. 2023.
+* [Suicídio](https://loja.grupoa.com.br/psicofarmacos-consulta-rapida-6ed9786558821366-p1021397).
+Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, **Montezano BB**,
+Passos IC. Chapter of the book *Psicofármacos: consulta rápida* published by
+*Artmed*. 2023.
 
-* [Suicídio](https://loja.grupoa.com.br/psicofarmacos-consulta-rapida-6ed9786558821366-p1021397). Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, **Montezano BB**, Passos IC. Chapter of the book *Psicofármacos: consulta rápida* published by *Artmed*. 2023.
+* [Relação entre abuso e dependência de substância e transtorno bipolar em uma
+amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903).
+**Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter
+of the book *Psicologia: Identidade Profissional e Compromisso Social*
+published by *Atena Editora*. 2021.
 
-* [Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903). **Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC. Chapter of the book *Psicologia: Identidade Profissional e Compromisso Social* published by *Atena Editora*. 2021.
+## 🧑‍🏫 Courses 
 
-## Courses 
+* [Introduction to R Course (in
+Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April,
+2023.
+- I conducted a comprehensive Introduction to R course for researchers in the
+healthcare field, consisting of seven lectures under the umbrella of the
+[AlliaNCE (Artificial Intelligence in Neuroscience) research
+group](https://allianceresearchgroup.com/) at UFRGS. The course covered
+essential concepts related to data manipulation and analysis using the
+open-source programming language R. The curriculum included lectures, practical
+exercises, and weekly labs for hands-on application of learned concepts. The
+course website provided additional resources, such as recommended materials,
+FAQs, lecture slides, codes, and class recordings. Homework assignments with
+corresponding answer keys were available, and a tips section featured short
+videos illustrating data manipulation and analysis routines. The seven classes
+spanned topics from R introduction to machine learning applications, equipping
+participants with valuable skills for data-driven research in healthcare. 
 
-* [Introduction to R Course (in Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April, 2023.
-  - I conducted a comprehensive Introduction to R course for researchers in the healthcare field, consisting of seven lectures under the umbrella of the [AlliaNCE (Artificial Intelligence in Neuroscience) research group](https://allianceresearchgroup.com/) at UFRGS. The course covered essential concepts related to data manipulation and analysis using the open-source programming language R. The curriculum included lectures, practical exercises, and weekly labs for hands-on application of learned concepts. The course website provided additional resources, such as recommended materials, FAQs, lecture slides, codes, and class recordings. Homework assignments with corresponding answer keys were available, and a tips section featured short videos illustrating data manipulation and analysis routines. The seven classes spanned topics from R introduction to machine learning applications, equipping participants with valuable skills for data-driven research in healthcare. 
+## 🎤 Lectures
 
-## Lectures
+* [Large Language Models in Mental
+Health](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS.
+August 31, 2024.
+  - The lecture was given on August 31, 2024 at the Digital Meantal Health
+  Meeting, which took place at the Instituto Caldeira in Porto Alegre. The
+  lecture covered topics related to new language AI models and how they can be
+  used in for mental health related scenarios.
 
-* [Large Language Models in Mental Health](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS. August 31, 2024.
-  - The lecture was given on August 31, 2024 at the Digital Meantal Health Meeting, which took place at the Instituto Caldeira in Porto Alegre. The lecture covered topics related to new language AI models and how they can be used in for mental health related scenarios.
+* [Big Data in Mental Health (in
+Portuguese)](https://youtu.be/Hduz2YOusiA?si=BZcV0HenNq-kKu8C). Porto Alegre,
+RS. August 31, 2024.
+  - The lecture was given on August 31, 2024 at the Digital Mental Health
+  Meeting, which took place at the Instituto Caldeira in Porto Alegre. The
+  lecture covered topics related to the interface between big data and mental
+  health, focusing on data science in psychiatry.
 
-* [Big Data in Mental Health (in Portuguese)](https://youtu.be/Hduz2YOusiA?si=BZcV0HenNq-kKu8C). Porto Alegre, RS. August 31, 2024.
-  - The lecture was given on August 31, 2024 at the Digital Mental Health Meeting, which took place at the Instituto Caldeira in Porto Alegre. The lecture covered topics related to the interface between big data and mental health, focusing on data science in psychiatry.
+* [RISE Project: Stratification of suicide risk in the Brazilian population (in
+Portuguese)](https://youtu.be/kWLyciMi7s0?si=cTJ-Ckf6Tya45Xkh). Online. July
+29, 2024.
+  - The lecture was given on July 29, 2024 via web conference. The lecture
+  covered topics related to a multicenter research project that I'm part of.
+  The central theme of the seminar was "Suicidal behavior, bipolar disorder and
+  borderline personality".
 
-* [RISE Project: Stratification of suicide risk in the Brazilian population (in Portuguese)](https://youtu.be/kWLyciMi7s0?si=cTJ-Ckf6Tya45Xkh). Online. July 29, 2024.
-  - The lecture was given on July 29, 2024 via web conference. The lecture covered topics related to a multicenter research project that I'm part of. The central theme of the seminar was "Suicidal behavior, bipolar disorder and borderline personality".
+* [Epidemiology and Phenomenology of Bipolar Disorder (in
+Portuguese)](https://youtu.be/l_2col7BlNI). Criciúma, SC. September 15, 2023.
+  - The lecture was given on September 15, 2023 at 1:30 p.m. at the XXI
+  Symposium on Psychiatry at the Brain and Mind Interface, which took place at
+  the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The
+  lecture covered topics related to the epidemiology and phenomenology of
+  bipolar disorder. The central theme of the event was "Bipolar disorder: from
+  biological bases to treatment".
 
-* [Epidemiology and Phenomenology of Bipolar Disorder (in Portuguese)](https://youtu.be/l_2col7BlNI). Criciúma, SC. September 15, 2023.
-  - The lecture was given on September 15, 2023 at 1:30 p.m. at the XXI Symposium on Psychiatry at the Brain and Mind Interface, which took place at the Universidade do Extremo Sul Catarinense (UNESC) in Criciúma (SC). The lecture covered topics related to the epidemiology and phenomenology of bipolar disorder. The central theme of the event was "Bipolar disorder: from biological bases to treatment".
+* [What is Artificial Intelligence? (in
+Portuguese)](https://www.instagram.com/p/CwBTdtOpFuB/). Porto Alegre, RS.
+August 23, 2023.
+  - The lecture was given on August 23, 2023 at an event entitled "Open Class:
+  Artificial Intelligence and Digital Psychiatry" organized by the League of
+  Psychiatry and Mental Health (LIPSAM) of the Federal University of Health
+  Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do
+  Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre.
+  The lecture covered topics such as big data, machine learning, deep learning,
+  the beginnings of AI, as well as aspects of data science applied to
+  psychiatry from a historical perspective. It also addressed current
+  applications of AI in the field of mental health and how a digital clinic can
+  be envisioned for the future.
 
-* [What is Artificial Intelligence? (in Portuguese)](https://www.instagram.com/p/CwBTdtOpFuB/). Porto Alegre, RS. August 23, 2023.
-  - The lecture was given on August 23, 2023 at an event entitled "Open Class: Artificial Intelligence and Digital Psychiatry" organized by the League of Psychiatry and Mental Health (LIPSAM) of the Federal University of Health Sciences of Porto Alegre (UFCSPA) and the Federal University of Rio Grande do Sul (UFRGS). The event took place at TECNOPUC Health Plus in Porto Alegre. The lecture covered topics such as big data, machine learning, deep learning, the beginnings of AI, as well as aspects of data science applied to psychiatry from a historical perspective. It also addressed current applications of AI in the field of mental health and how a digital clinic can be envisioned for the future.
+## 💻 Softwares
 
-## Softwares
+* [Dashboard on suicide rates in Brazil from 2000 to
+2021](https://brunomontezano.shinyapps.io/dashboard-suicidio/). Written in
+Quarto and R with Shiny as backend technology. 2024.
+    - Built based on pre-processed data by the [Plataforma de Ciência de Dados
+    Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), affiliated to the
+    Oswaldo Cruz Foundation.
 
-* [Dashboard on suicide rates in Brazil from 2000 to 2021](https://brunomontezano.shinyapps.io/dashboard-suicidio/). Written in Quarto and R with Shiny as backend technology. 2024.
-    - Built based on pre-processed data by the [Plataforma de Ciência de Dados Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), affiliated to the Oswaldo Cruz Foundation.
+* [Simple randomization tool for clinical
+trials](https://brunomontezano.shinyapps.io/randomizacao-shiny/). Written in
+Shiny and R. 2024.
+    - This tool provides a solution for randomizing patients in clinical trials
+    while maintaining blinding. Additionally, it offers the option for users to
+    download tables locally.
 
-* [Simple randomization tool for clinical trials](https://brunomontezano.shinyapps.io/randomizacao-shiny/). Written in Shiny and R. 2024.
-    - This tool provides a solution for randomizing patients in clinical trials while maintaining blinding. Additionally, it offers the option for users to download tables locally.
+## 🏆 Awards
 
-## Awards
+* *[Prêmio Tese FAMED
+2024](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/) (Best
+Master's dissertation defended between 01/01/2023 and 12/31/2023, in the
+Postgraduate programs of the School of Medicine of the Federal University of
+Rio Grande do Sul)*. Federal University of Rio Grande do Sul. Porto Alegre, RS.
+2024.
 
-* *[Prêmio Tese FAMED 2024](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/) (Best Master's dissertation defended between 01/01/2023 and 12/31/2023, in the Postgraduate programs of the School of Medicine of the Federal University of Rio Grande do Sul)*. Federal University of Rio Grande do Sul. Porto Alegre, RS. 2024.
+* *Best Poster Award at the [ISBD 2023 Annual
+Conference](https://isbd2023.org/)*. International Society for Bipolar
+Disorders. Chicago, IL. 2023.
 
-* *Best Poster Award at the [ISBD 2023 Annual Conference](https://isbd2023.org/)*. International Society for Bipolar Disorders. Chicago, IL. 2023.
+* *Mitacs Globalink Research Award*. Project: Machine learning and women's
+mental health: using bleeding-edge methods to understand premenstrual and mood
+symptoms. Collaboration with McMaster University (Hamilton, ON).
+[Mitacs](https://www.mitacs.ca/en). 2023.
 
-* *Mitacs Globalink Research Award*. Project: Machine learning and women's mental health: using bleeding-edge methods to understand premenstrual and mood symptoms. Collaboration with McMaster University (Hamilton, ON). [Mitacs](https://www.mitacs.ca/en). 2023.
+* *Young Researcher Award*, [Congress on Brain, Behavior and Emotions
+2022](https://www.braincongress.com.br/). Gramado, RS. 2022.
 
-* *Young Researcher Award*, [Congress on Brain, Behavior and Emotions 2022](https://www.braincongress.com.br/). Gramado, RS. 2022.
+* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive
+Therapies*, [Brazilian Federation of Cognitive
+Therapies](https://fbtc.org.br/). Online. 2021.
 
-* *Third place in Best ePoster of the XIII Brazilian Congress of Cognitive Therapies*, [Brazilian Federation of Cognitive Therapies](https://fbtc.org.br/). Online. 2021.
+* *Highlight in the area of Human Sciences at the 28th Congress of Scientific
+Initiation*, [Federal University of Rio Grande](https://www.furg.br/en/). Rio
+Grande, RS. 2019.
 
-* *Highlight in the area of Human Sciences at the 28th Congress of Scientific Initiation*, [Federal University of Rio Grande](https://www.furg.br/en/). Rio Grande, RS. 2019.
+## 📰 Media and press releases
 
-## Media and press releases
+* [Solidão: prevalência global acende alerta para impactos na saúde da
+população e busca por
+soluções](https://futurodasaude.com.br/solidao-solucoes/). Futuro da Saúde. May
+5, 2025.
 
-* [Solidão: prevalência global acende alerta para impactos na saúde da população e busca por soluções](https://futurodasaude.com.br/solidao-solucoes/). Futuro da Saúde. May 5, 2025.
+* [Prêmio Tese FAMED 2024: Conheça os
+vencedores](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/).
+Universidade Federal do Rio Grande do Sul. December 11, 2024.
 
-* [Prêmio Tese FAMED 2024: Conheça os vencedores](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/). Universidade Federal do Rio Grande do Sul. December 11, 2024.
+* [Egressos do curso de Psicologia da UCPel são destaque em premiação
+internacional.](https://ucpel.edu.br/noticias/egressos-do-curso-de-psicologia-da-ucpel-sao-destaque-em-premiacao-internacional)
+Universidade Católica de Pelotas. June 29, 2023.
 
-* [Egressos do curso de Psicologia da UCPel são destaque em premiação internacional.](https://ucpel.edu.br/noticias/egressos-do-curso-de-psicologia-da-ucpel-sao-destaque-em-premiacao-internacional) Universidade Católica de Pelotas. June 29, 2023.
+* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa
+neurobiológica da
+depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html)
+Zero Hora. April 13, 2023.
 
-* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa neurobiológica da depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html) Zero Hora. April 13, 2023.
-
-## Roles
+## 🧑‍💼 Roles
 
 * Assistant Editor: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
-* Reviewer: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
-* Reviewer: [Nature Scientific Reports](https://www.nature.com/srep/)
-* Reviewer: [Journal of Medical Internet Research](https://www.jmir.org/)
-* Reviewer: [The R Journal](https://journal.r-project.org/)
-* Reviewer: [The Journal of Open Source Software](https://joss.theoj.org/)
-* Reviewer: [Debates em Psiquiatria](https://revistardp.org.br/)
-* Reviewer: [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
-* Reviewer: [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
+* Reviewer:
+    - [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+    - [Nature Scientific Reports](https://www.nature.com/srep/)
+    - [Journal of Medical Internet Research](https://www.jmir.org/)
+    - [The R Journal](https://journal.r-project.org/)
+    - [The Journal of Open Source Software](https://joss.theoj.org/)
+    - [Debates em Psiquiatria](https://revistardp.org.br/)
+    - [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
+    - [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
 
-## Citations
+## 📈 Citations
 
-```{r citation-plotly}
+```{r citation-plotly-en-us}
 #| echo: false
-citations <- scholar::get_citation_history("dULhWr0AAAAJ") |> 
+citations <- scholar::get_citation_history("dULhWr0AAAAJ") |>
   dplyr::mutate(text = glue::glue("Year: {year}\nCitations: {cites}"))
 
 citations_plot <- plotly::plot_ly(
   data = citations,
-  x = ~ year,
-  y = ~ cites,
-  text = ~ text,
+  x = ~year,
+  y = ~cites,
+  text = ~text,
   hoverinfo = "text",
   textposition = "none",
   name = "Google Scholar cites",
   type = "bar",
   marker = list(
-    color = 'rgb(73, 150, 245)',
-    line = list(color = 'rgb(0, 0, 0)',
-                width = 1.5)
+    color = "rgb(73, 150, 245)",
+    line = list(color = "rgb(0, 0, 0)", width = 1.5)
   )
 ) |>
   plotly::layout(
-    yaxis = list(title = "Google Scholar cites",
-                 titlefont = list(size = 15),
-                 fixedrange = TRUE),
+    yaxis = list(
+      title = "Google Scholar cites",
+      titlefont = list(size = 15),
+      fixedrange = TRUE
+    ),
     xaxis = list(
       title = "Year",
       titlefont = list(size = 15),
@@ -184,8 +383,7 @@ citations_plot <- plotly::plot_ly(
   plotly::add_annotations(
     x = min(citations$year),
     y = max(citations$cites) + 1,
-    text = paste0("Last updated: ",
-                  format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")),
+    text = paste0("Last updated: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")),
     showarrow = FALSE,
     font = list(color = "grey90")
   ) |>
@@ -202,3 +400,407 @@ citations_plot <- plotly::plot_ly(
 
 citations_plot
 ```
+:::
+
+
+::: {.content-visible when-profile="portuguese"}
+##  🎓 Formação acadêmica
+
+* 2023 — atual: Doutorado em Psiquiatria e Ciências do Comportamento,
+Departamento de Psiquiatria, Universidade Federal do Rio Grande do Sul, Porto
+Alegre, Rio Grande do Sul, Brasil
+  - Financiado pela *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior*
+  (CAPES) através do Programa de Excelência Acadêmica (Proex).
+
+* 2023 — 2024: Formação em Terapias Cognitivo-Comportamentais, Instituto de
+Neurociências e Terapias Cognitivas (INTCognitivas), Porto Alegre, Rio Grande
+do Sul, Brasil
+
+* 2022 — 2023: Mestrado em Psiquiatria e Ciências do Comportamento, Departamento de
+Psiquiatria, Universidade Federal do Rio Grande do Sul, Porto Alegre, Rio Grande
+do Sul, Brasil
+  - Financiado pela *Coordenação de Aperfeiçoamento de Pessoal de Nível Superior*
+  (CAPES) através do Programa de Excelência Acadêmica
+  (Proex). Dissertação: [Predição de transtorno bipolar e
+  desfechos funcionais em adultos jovens: um acompanhamento de cinco
+  anos](http://hdl.handle.net/10183/266476) (Em inglês: Predicting
+  bipolar disorder and functional outcomes in young adults: a five-year
+  follow-up). Defesa de dissertação: [Acesso via YouTube](https://youtu.be/s8ccoTtqgLI).
+
+* 2016 — 2021: Graduação em Psicologia, Departamento de Psicologia, Universidade Católica de Pelotas, Pelotas, Rio Grande do Sul, Brasil
+  - Financiado pelo *Conselho Nacional de Desenvolvimento Científico e Tecnológico*
+  (CNPq) com Bolsa de Iniciação Científica. [Trabalho de  conclusão  de curso](https://doi.org/10.1016/j.psycom.2023.100121) foi publicado
+  como artigo de acesso livre na revista *Psychiatry Research Communications*.
+
+* 2013 — 2015: Curso Técnico em Informática, Instituto Federal de Educação,
+Ciência e Tecnologia do Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brasil
+
+## 📝 Publicações
+
+* [Clinical and lifestyle predictors of loneliness: A two-year longitudinal
+study](https://doi.org/10.1016/j.jpsychires.2024.11.025). Antonelli-Salgado T,
+**Montezano BB**, Roza TH, Bouvier V, Zimerman A, Noronha LT, Marcon G,
+Hoffmann MS, Brunoni AR, Passos IC. *Artigo* publicado no *Journal of
+Psychiatric Research*. 2024.
+
+* [Predictors of response after single session interventions for emotional
+distress: using enhanced psychoeducation in crisis
+situations](http://dx.doi.org/10.47626/1516-4446-2024-3749). Ache ALS, Baldez
+DP, **Montezano BB**, Mosqueiro BP, Caldieraro MA, Spanemberg L, Salum GA,
+Fleck MP. *Artigo* publicado no *Brazilian Journal of Psychiatry*. 2024.
+
+* [Subcutaneous ketamine reduces suicide risk and improves functioning in
+depression: a proof-of-concept
+study](https://doi.org/10.1016/j.psychres.2024.115915). Anzolin AP, Baldez DP,
+**Montezano BB**, Kapczinski F, Abreu PB, Kauer-Santanna M. *Artigo* publicado
+na revista *Psychiatry Research*. 2024.
+
+* [The role of parental stress on emotional and behavioral problems in
+offspring: a systematic review with
+meta-analysis](https://doi.org/10.1016/j.jped.2024.02.003). Ribas LH,
+**Montezano BB**, Nieves M, Kampmann LB, Jansen K. *Artigo* publicado no
+*Jornal de Pediatria*. 2024.
+
+* [Exploring protective factors in a high-risk subsample: the pivotal role of
+paternal support in preventing depression in a cohort of young
+adults](https://doi.org/10.47626/2237-6089-2024-0804). Tietbohl-Santos B,
+**Montezano BB**, Cardoso TA, Mondin TC, Moreira FP, Souza LDM, Silva RA,
+Kapczinski F, Jansen K, Passos IC. *Artigo* publicado na *Trends in Psychiatry
+and Psychotherapy*. 2024.
+
+* [Protective factors against depression in high-risk children and adolescents:
+a systematic review of longitudinal
+studies](https://doi.org/10.47626/1516-4446-2023-3363). Tietbohl-Santos B,
+Shintani AO, **Montezano BB**, Biazin P, Signori GM, Pulice R, Vecchia GFD,
+Bebber JC, Noronha LT, Passos IC. *Artigo* publicado no *Brazilian Journal
+of Psychiatry*. 2024.
+
+* [Perinatal factors as risk factors of bipolar disorder onset in young
+adulthood: a 22-year birth
+cohort](https://doi.org/10.47626/1516-4446-2023-3338). Gnielka V, **Montezano
+BB**, Baldez DP, Shintani AO, Rabelo-da-Ponte FD, Menezes AMB, Wehrmeister FC,
+Gonçalves H, Kunz M, Kauer-Sant'Anna M, Watts D, Kapczinski F, Passos IC.
+*Artigo* publicado no *Brazilian Journal of Psychiatry*. 2024.
+
+* [Early exposure to cannabis and bipolar disorder incidence: Findings from a
+22-year birth cohort study in Brazil](https://doi.org/10.1111/acps.13670).
+Jorge ACR, **Montezano BB**, Aguiar KR, Noronha LT, Baldez DP, Watts D, Menezes
+AMB, Wehrmeister F, Gonçalves H, Kunz M, Kapczinski F, Passos IC. *Artigo*
+publicado na revista *Acta Psychiatrica Scandinavica*. 2024. *Nota:* Alan
+Cristian
+Rodrigues Jorge, Bruno Braga Montezano e Kyara Rodrigues de Aguiar contribuíam
+igualmente ao manuscrito e são primeiros autores em conjunto.
+
+* [Autophagy-based
+antidepressants?](https://doi.org/10.47626/1516-4446-2023-3127). Kapczinski F,
+**Montezano BB**, Nardi AE, Lledo PM, Katsimpardi L. *Editorial* publicado no
+*Brazilian Journal of Psychiatry*. 2023.
+
+* [Latent bipolar disorder](https://doi.org/10.1016/S0140-6736(23)00402-6).
+Kapczinski F, **Montezano BB**, Cardoso TA. *Correspondence* publicada no *The
+Lancet*. 2023.
+
+* [Validity and Reliability of the Brazilian Version of the Cognitive Reserve
+Assessment Scale in Health
+(CRASH)](https://www.bjp.org.br/details/2417/en-US/validity-and-reliability-of-the-brazilian-version-of-the-cognitive-reserve-assessment-scale-in-health--crash-).
+Bücker J, Amoretti S, Vieta E, Czepielewski L, Scheibe DB, **Montezano BB**,
+Goularte JF, Rosa AR. *Brief Report* publicado no *Brazilian Journal of
+Psychiatry*. 2023.
+
+* [Predicting bipolar disorder incidence in young adults using gradient
+boosting: a 5-year follow-up
+study](https://doi.org/10.1101/2023.03.31.22282507). **Montezano BB**, Gnielka
+V, Shintani AO, Aguiar KR, Roza TH, Cardoso TA, Souza LDM, Moreira FP, Silva
+RA, Mondin TC, Jansen K, Passos IC. *Preprint* disponível no *MedRxiv*. 2023.
+
+* [Associations between general sleep quality and measures of functioning and
+cognition in subjects recently diagnosed with bipolar
+disorder](https://doi.org/10.1016/j.psycom.2023.100121).  **Montezano BB**,
+Cardoso TA, Souza LDM, Moreira FP, Mondin TC, Silva RA, Jansen K. *Artigo*
+publicado na revista *Psychiatry Research Communications*. 2023.
+
+* [Validation of the Brazilian version of the Processes of Change Questionnaire
+in Weight Management in adults with overweight and obesity in
+Brazil](https://doi.org/10.1101/2023.03.20.23287450). Carvalho Q, Ziani PR,
+**Montezano BB**, Goularte JF, Rosa AR. *Preprint* disponível no *MedRxiv*. 2023.
+
+* [Predictors of illicit substance abuse/dependence during young adulthood: A
+machine learning approach](https://doi.org/10.1016/j.jpsychires.2022.11.030).
+Rakovski C, Ballester PL, **Montezano BB**, Souza LDM, Jansen K, Silva RA,
+Mondin TC, Moreira FP, De Boni RB, Frey BN, Kapczinski F, Cardoso TA. *Artigo*
+publicado no *Journal of Psychiatric Research*. 2023.
+
+* [Predicting 3-year persistent or recurrent major depressive episode using
+machine learning techniques](https://doi.org/10.1016/j.psycom.2022.100055).
+Fialho AR, **Montezano BB**, Ballester PL, Cardoso TA, Mondin TC, Moreira FP,
+Souza LDM, Silva RA, Jansen K. *Artigo* publicado na revista *Psychiatry
+Research Communications*. 2022.
+
+* [Personality disorders as predictors for the conversion from major depressive
+disorder to bipolar disorder: A prospective cohort
+study](https://doi.org/10.1016/j.psycom.2022.100068). Ávila GB, **Montezano
+BB**, Souza LDM, Cardoso TA, Silva RA, Mondin TC, Moreira FP, Jansen K.
+*Artigo* publicado na revista *Psychiatry Research Communications*. 2022.
+
+* [Sleep alterations as a predictor of bipolar disorder among offspring of
+parents with bipolar disorder: a systematic review and
+meta-analysis](https://doi.org/10.47626/2237-6089-2021-0256). Aguiar KR,
+Cabelleira MD, **Montezano BB**, Jansen K, Cardoso TA. *Artigo* publicado na
+*Trends in Psychiatry and Psychotherapy*. 2022.
+
+* [Predicting functional impairment in euthymic patients with mood disorder: A
+5-year follow-up](https://doi.org/10.1016/j.psychres.2023.115404). Aguiar KR,
+**Montezano BB**, Feiten JG, Watts D, Zimerman A, Mondin TC, Silva RA, Souza
+LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Artigo* publicado na
+revista *Psychiatry Research*. 2023.
+
+## 📚 Capítulos de livro
+
+* [Circadian Rhythms in Patients with Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). **Montezano BB**.
+Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
+publicado pela *Springer Nature*. 2025.
+
+* [Substance Use Disorder in the Course of Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**.
+Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
+publicado pela *Springer Nature*. 2025.
+
+* [Prodromal Symptoms and Risk Markers of Bipolar
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). **Montezano BB**.
+Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
+publicado pela *Springer Nature*. 2025.
+
+* [O uso da inteligência artificial para identificar doenças
+psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
+**Montezano BB**, Vecchia GFD, Lorenzoni IC, Passos IC. Capítulo do livro
+*Psiquiatria Digital* publicado pela *Artmed*. 2024.
+
+* [Predição de risco de suicídio utilizando técnicas de inteligência
+artificial](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
+Roza TH, **Montezano BB**, Antonelli-Salgado T, Passos IC. Capítulo do livro
+*Psiquiatria Digital* publicado pela *Artmed*. 2024.
+
+* [The Dawn of Digital
+Psychiatry](https://doi.org/10.1007/978-3-031-10698-9_1). Zimerman A,
+**Montezano BB**, Vecchia GFD, Kapczinski F, Passos IC. Capítulo do livro
+*Digital Mental Health* publicado pela *Springer Nature*. 2023.
+
+* [Suicídio](https://loja.grupoa.com.br/psicofarmacos-consulta-rapida-6ed9786558821366-p1021397).
+Shintani AO, Salgado TA, Aguiar, KR, Roza TH, Lorenzoni IC, **Montezano BB**,
+Passos IC. Capítulo do livro *Psicofármacos: consulta rápida* publicado pela
+*Artmed*. 2023.
+
+* [Relação entre abuso e dependência de substância e transtorno bipolar em uma
+amostra comunitária de jovens](http://dx.doi.org/10.22533/at.ed.400212903).
+**Montezano BB**, Jansen K, Cardoso TA, Souza LDM, Silva RA, Mondin TC.
+Capítulo do livo *Psicologia: Identidade Profissional e Compromisso Social*
+publicado pela *Atena Editora*. 2021.
+
+## 🧑‍🏫 Cursos gratuitos 
+
+* [Introdução ao R: aplicações em ciências da
+saúde](https://brunomontezano.github.io/r-workshop/). Online. Abril de 2023.
+    - Conduzi um curso introdutório sobre a linguagem de programação R para
+    pesquisadores da área da saúde, composto por sete aulas, para os
+    integrantes do [grupo de pesquisa AlliaNCE (Artificial Intelligence in
+    Neuroscience)](https://allianceresearchgroup.com/) da UFRGS. O curso
+    abordou conceitos essenciais relacionados à manipulação e
+    análise de dados utilizando a linguagem de programação R. O currículo
+    incluiu aulas teóricas, exercícios práticos e laboratórios semanais para
+    aplicação prática dos conceitos aprendidos. O site do curso fornece
+    recursos adicionais, como materiais recomendados, perguntas frequentes,
+    slides das aulas, códigos e gravações das aulas. Foram disponibilizadas
+    listas de exercícios com gabaritos correspondentes, além de uma seção de
+    dicas com vídeos curtos ilustrando rotinas de manipulação e análise de
+    dados. As sete aulas abordaram temas desde a introdução ao R até aplicações
+    de aprendizado de máquina, proporcionando aos participantes habilidades
+    valiosas para pesquisa orientada por dados na área da saúde.
+
+## 🎤 Palestras
+
+* [Large Language Models na Saúde
+Mental](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS. 31
+de agosto de 2024.
+    - A palestra foi realizada em 31 de agosto de 2024, durante o Meeting de
+    Saúde Mental Digital, que ocorreu no Instituto Caldeira, em Porto Alegre. A
+    apresentação abordou temas relacionados aos novos modelos de linguagem
+    baseados em inteligência artificial e como eles podem ser utilizados em
+    cenários relacionados à saúde mental.
+
+* [Big Data na Saúde Mental](https://youtu.be/Hduz2YOusiA?si=BZcV0HenNq-kKu8C). Porto Alegre,
+RS. 31 de agosto de 2024.
+    - A palestra foi realizada em 31 de agosto de 2024, durante o Meeting de
+    Saúde Mental Digital, que ocorreu no Instituto Caldeira, em Porto Alegre. A
+    apresentação abordou temas relacionados à interface entre big data e saúde
+    mental, com foco na ciência de dados em psiquiatria.
+
+* [Projeto RISE: Estratificação do risco de suicídio na população
+brasileira](https://youtu.be/kWLyciMi7s0?si=cTJ-Ckf6Tya45Xkh). Online. 29 de
+julho de 2024.
+    - A palestra foi realizada em 29 de julho de 2024, por meio de
+    webconferência. A apresentação abordou temas relacionados a um projeto de
+    pesquisa multicêntrico do qual faço parte. O tema central do seminário foi
+    "Comportamento suicida, transtorno bipolar e transtorno de personalidade
+    borderline". O evento foi organizado por pesquisadores da Universidade
+    Federal de Sergipe.
+
+* [Epidemiologia e Fenomenologia do Transtorno
+Bipolar](https://youtu.be/l_2col7BlNI). Criciúma, SC. 15 de setembro de 2023.
+    - A palestra foi realizada em 15 de setembro de 2023, às 13h30, durante o
+    XXI Simpósio de Psiquiatria na Interface Cérebro e Mente, que ocorreu na
+    Universidade do Extremo Sul Catarinense (UNESC), em Criciúma (SC). A
+    apresentação abordou temas relacionados à epidemiologia e fenomenologia do
+    transtorno bipolar. O tema central do evento foi "Transtorno bipolar: das
+    bases biológicas ao tratamento".
+
+* [O que é Inteligência Artificial?](https://www.instagram.com/p/CwBTdtOpFuB/).
+Porto Alegre, RS. 23 de agosto de 2023.
+    - A palestra foi realizada em 23 de agosto de 2023, durante o evento
+    intitulado "Aula Aberta: Inteligência Artificial e Psiquiatria Digital",
+    organizado pela Liga de Psiquiatria e Saúde Mental (LIPSAM) da Universidade
+    Federal de Ciências da Saúde de Porto Alegre (UFCSPA) e da Universidade
+    Federal do Rio Grande do
+    Sul (UFRGS). O evento ocorreu no TECNOPUC Health Plus, em Porto Alegre. A
+    apresentação abordou temas como big data, machine learning, deep learning,
+    os primórdios da IA, bem como aspectos da ciência de dados aplicada à
+    psiquiatria sob uma perspectiva histórica. Também foram discutidas as
+    aplicações atuais da IA na área da saúde mental e como pode ser concebida
+    uma clínica digital no futuro.
+
+## 💻 Softwares
+
+* [Dashboard de taxas de suicídio no Brasil: de 2000 a
+2021](https://brunomontezano.shinyapps.io/dashboard-suicidio/). Escrito em
+Quarto e R via Shiny. 2024.
+    - Construído a partir de dados pré-processados pela [Plataforma de Ciência
+    de Dados Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), vinculada a
+    Fundação Oswaldo Cruz (FIOCRUZ).
+    - *Nota*: atualmente indisponível por questões de sigilo de dados.
+
+* [Ferramenta de randomização para ensaios
+clínicos](https://brunomontezano.shinyapps.io/randomizacao-shiny/). Escrito em
+Shiny e R. 2024.
+    - A ferramenta soluciona a randomização simples de pacientes em ensaios
+    clínicos, mantendo o processo de cegamento. Ainda, oferece aos usuários a
+    opção de baixar as tabelas localmente.
+
+## 🏆 Prêmios e destaques
+
+* *[Prêmio Tese FAMED
+2024](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/) (Melhor
+dissertação defendida entre 2023 e 2024 nos programas de pós-graduação da
+Faculdade de Medicina da UFRGS)*. Universidade Federal do Rio Grande do Sul.
+Porto Alegre, RS. 2024.
+
+* *Best Poster Award no [ISBD 2023 Annual
+Conference](https://isbd2023.org/)*. International Society for Bipolar
+Disorders. Chicago, IL. 2023.
+
+* *Mitacs Globalink Research Award*. Projeto: Machine learning and women's
+mental health: using bleeding-edge methods to understand premenstrual and mood
+symptoms. Colaboração com McMaster University (Hamilton, ON, Canadá).
+[Mitacs](https://www.mitacs.ca/en). 2023.
+
+* *Prêmio Jovem Pesquisador*, [Congress on Brain, Behavior and Emotions
+2022](https://www.braincongress.com.br/). Gramado, RS. 2022.
+
+* *Terceiro lugar de Melhor ePôster do XIII Congresso Brasileiro de Terapias
+Cognitivas*, [Brazilian Federation of Cognitive
+Therapies](https://fbtc.org.br/). Online. 2021.
+
+* *Destaque na área de Ciências Humanas no 28 Congresso de
+Iniciação Científica*, [Universidade Federal de Rio
+Grande](https://www.furg.br/en/). Rio Grande, RS. 2019.
+
+## 📰 Entrevistas e comunicados de imprensa
+
+* [Solidão: prevalência global acende alerta para impactos na saúde da
+população e busca por
+soluções](https://futurodasaude.com.br/solidao-solucoes/). Futuro da Saúde. 5 de maio de 2025.
+
+* [Prêmio Tese FAMED 2024: Conheça os
+vencedores](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/).
+Universidade Federal do Rio Grande do Sul. 11 de dezembro de 2024.
+
+* [Egressos do curso de Psicologia da UCPel são destaque em premiação
+internacional.](https://ucpel.edu.br/noticias/egressos-do-curso-de-psicologia-da-ucpel-sao-destaque-em-premiacao-internacional)
+Universidade Católica de Pelotas. 29 de junho de 2023.
+
+* [Estudo de pesquisadores da UFRGS e da França identifica uma possível causa
+neurobiológica da
+depressão.](https://gauchazh.clicrbs.com.br/saude/vida/noticia/2023/04/estudo-de-pesquisadores-da-ufrgs-e-da-franca-identifica-uma-possivel-causa-neurobiologica-da-depressao-clgf3u4kn000h015xcdaveosq.html)
+Zero Hora. 13 de abril de 2023.
+
+## 🧑‍💼 Cargos editoriais
+
+* Editor Assistente: [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+* Revisor:
+    - [Brazilian Journal of Psychiatry](https://www.bjp.org.br/)
+    - [Nature Scientific Reports](https://www.nature.com/srep/)
+    - [Journal of Medical Internet Research](https://www.jmir.org/)
+    - [The R Journal](https://journal.r-project.org/)
+    - [The Journal of Open Source Software](https://joss.theoj.org/)
+    - [Debates em Psiquiatria](https://revistardp.org.br/)
+    - [Trends in Psychiatry and Psychotherapy](https://www.scielo.br/j/trends/)
+    - [International Journal of Mental Health and Addiction](https://www.springer.com/journal/11469)
+
+## 📈 Citações
+
+```{r citation-plotly-pt-br}
+#| echo: false
+citations <- scholar::get_citation_history("dULhWr0AAAAJ") |>
+  dplyr::mutate(text = glue::glue("Ano: {year}\nCitações: {cites}"))
+
+citations_plot <- plotly::plot_ly(
+  data = citations,
+  x = ~year,
+  y = ~cites,
+  text = ~text,
+  hoverinfo = "text",
+  textposition = "none",
+  name = "Citações no Google Scholar",
+  type = "bar",
+  marker = list(
+    color = "rgb(73, 150, 245)",
+    line = list(color = "rgb(0, 0, 0)", width = 1.5)
+  )
+) |>
+  plotly::layout(
+    yaxis = list(
+      title = "Citações no Google Scholar",
+      titlefont = list(size = 15),
+      fixedrange = TRUE
+    ),
+    xaxis = list(
+      title = "Ano",
+      titlefont = list(size = 15),
+      tickvals = as.list(2022:2024),
+      tickmode = "array",
+      fixedrange = TRUE
+    )
+  ) |>
+  plotly::add_annotations(
+    x = min(citations$year),
+    y = max(citations$cites) + 1,
+    text = paste0(
+      "Atualizado em: ",
+      format(Sys.time(), "%d/%m/%Y %H:%M:%S UTC%Z")
+    ),
+    showarrow = FALSE,
+    font = list(color = "grey90")
+  ) |>
+  plotly::config(
+    displayModeBar = TRUE,
+    displaylogo = FALSE,
+    modeBarButtonsToRemove = list(
+      "lasso2d",
+      "select2d",
+      "hoverClosestCartesian",
+      "hoverCompareCartesian"
+    )
+  )
+
+citations_plot
+```
+:::
