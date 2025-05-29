@@ -22,5 +22,6 @@ format:
   html:
     theme: litera
     highlight-style: breeze
-    css: styles.css
+    css: styles.scss
+    mainfont: Lato
     toc: true
