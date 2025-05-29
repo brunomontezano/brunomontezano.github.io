@@ -10,12 +10,12 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - href: ../pt
-        text: Portuguese
-      - href: ../en
-        text: English
+      - href: ../
+        text: 🇧🇷
+      - href: ../en-us
+        text: 🇺🇸
 
-lang: pt-br
+lang: en-us
 
 format:
   html:

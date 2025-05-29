@@ -1,6 +1,6 @@
 project:
   title: "Bruno Montezano | Psicólogo & Analista de Dados"
-  output-dir: ./docs/pt-br
+  output-dir: ./docs
 
 website:
   navbar:
@@ -10,10 +10,10 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - href: ../pt
-        text: Português
-      - href: ../en
-        text: Inglês
+      - href: ../
+        text: 🇧🇷
+      - href: ../en-us
+        text: 🇺🇸
 
 lang: pt-br
 

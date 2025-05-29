@@ -2,16 +2,6 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "Bruno Montezano"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: cv.qmd
-        text: CV
-
-
 profile:
   default: portuguese
   group: [portuguese, english]
