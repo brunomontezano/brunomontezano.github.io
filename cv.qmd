@@ -219,6 +219,23 @@ Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April, 2023.
     for data-driven research in healthcare. 
 
 ## 🎤 Lectures
+* [Diagnosis, risk factors and challenges in the treatment of bipolar
+disorder](https://www.instagram.com/p/DJEoRXqO05I/). Online. May 13, 2025.
+    - The lecture was given at a meeting of the Support Group for Patients with
+    Bipolar Disorder. This is a support group that promotes informative
+    lectures for family members, patients and those diagnosed with the
+    disorder. The lecture addressed diagnostic characteristics of the disorder,
+    risk and protective factors, prodromes, and challenges in the treatment
+    plan.
+
+* [Bipolarity: the importance of commitment and engagement in
+treatment](https://www.instagram.com/p/DDaYe0rSlqe/). Online. December 17, 2024.
+    - The lecture took place at a meeting of the Support Group for Patients
+    with Bipolar Disorder. This is a support group that promotes informative
+    lectures for family members, patients, and those diagnosed with the
+    disorder. The lecture discussed aspects involving adherence to treatment in
+    bipolar disorder, as well as the influence of commitment and engagement of
+    the patient and clinician/therapist in the therapeutic process.
 
 * [Large Language Models in Mental
 Health](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS.
@@ -617,6 +634,25 @@ saúde](https://brunomontezano.github.io/r-workshop/). Online. Abril de 2023.
     valiosas para pesquisa orientada por dados na área da saúde.
 
 ## 🎤 Palestras
+
+* [Diagnóstico, fatores de risco e desafios no tratamento do transtorno
+bipolar](https://www.instagram.com/p/DJEoRXqO05I/). Online. 13 de maio de 2025.
+    - A palestra foi realizada em um encontro do Grupo de Apoio aos Pacientes com
+    Transtorno Bipolar. Trata-se de um grupo de apoio que promove palestras
+    informativas para familiares, pacientes e portadores do diagnóstico. A
+    palestra abordou características diagnósticas do transtorno, fatores de
+    risco e proteção, pródromos, além de abordar desafios do plano de
+    tratamento.
+
+* [Bipolaridade: a importância do compromisso e do engajamento no
+tratamento](https://www.instagram.com/p/DDaYe0rSlqe/). Online. 17 de dezembro
+de 2024.
+    - A palestra aconteceu em um encontro do Grupo de Apoio aos Pacientes com
+    Transtorno Bipolar. Trata-se de um grupo de apoio que promove palestras
+    informativas para familiares, pacientes e portadores do diagnóstico. A
+    palestra dissertou sobre aspectos que envolvem a adesão ao tratamento no
+    transtorno bipolar, assim como a influência do compromisso e do engajamento
+    do paciente e do terapeuta/clínico no processo terapêutico.
 
 * [Large Language Models na Saúde
 Mental](https://youtu.be/dnOxqYQJfSE?si=2v0tf3fimgPAvPbX). Porto Alegre, RS. 31
