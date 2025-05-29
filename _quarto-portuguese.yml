@@ -20,8 +20,9 @@ lang: pt-br
 
 format:
   html:
-    theme: litera
+    theme:
+      - litera
+      - custom.scss
     highlight-style: breeze
-    css: styles.scss
     mainfont: Lato
     toc: true

@@ -202,21 +202,21 @@ published by *Atena Editora*. 2021.
 ## 🧑‍🏫 Courses 
 
 * [Introduction to R Course (in
-Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April,
-2023.
-- I conducted a comprehensive Introduction to R course for researchers in the
-healthcare field, consisting of seven lectures under the umbrella of the
-[AlliaNCE (Artificial Intelligence in Neuroscience) research
-group](https://allianceresearchgroup.com/) at UFRGS. The course covered
-essential concepts related to data manipulation and analysis using the
-open-source programming language R. The curriculum included lectures, practical
-exercises, and weekly labs for hands-on application of learned concepts. The
-course website provided additional resources, such as recommended materials,
-FAQs, lecture slides, codes, and class recordings. Homework assignments with
-corresponding answer keys were available, and a tips section featured short
-videos illustrating data manipulation and analysis routines. The seven classes
-spanned topics from R introduction to machine learning applications, equipping
-participants with valuable skills for data-driven research in healthcare. 
+Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April, 2023.
+    - I conducted a comprehensive Introduction to R course for researchers in
+    the healthcare field, consisting of seven lectures under the umbrella of
+    the [AlliaNCE (Artificial Intelligence in Neuroscience) research
+    group](https://allianceresearchgroup.com/) at UFRGS. The course covered
+    essential concepts related to data manipulation and analysis using the
+    open-source programming language R. The curriculum included lectures,
+    practical exercises, and weekly labs for hands-on application of learned
+    concepts. The course website provided additional resources, such as
+    recommended materials, FAQs, lecture slides, codes, and class recordings.
+    Homework assignments with corresponding answer keys were available, and a
+    tips section featured short videos illustrating data manipulation and
+    analysis routines. The seven classes spanned topics from R introduction to
+    machine learning applications, equipping participants with valuable skills
+    for data-driven research in healthcare. 
 
 ## 🎤 Lectures
 
@@ -289,8 +289,7 @@ Shiny and R. 2024.
 2024](https://www.ufrgs.br/famed/premio-tese-dissertacao-famed-2024/) (Best
 Master's dissertation defended between 01/01/2023 and 12/31/2023, in the
 Postgraduate programs of the School of Medicine of the Federal University of
-Rio Grande do Sul)*. Federal University of Rio Grande do Sul. Porto Alegre, RS.
-2024.
+Rio Grande do Sul)*. Federal University of Rio Grande do Sul. Porto Alegre, RS. 2024.
 
 * *Best Poster Award at the [ISBD 2023 Annual
 Conference](https://isbd2023.org/)*. International Society for Bipolar
@@ -674,7 +673,7 @@ Porto Alegre, RS. 23 de agosto de 2023.
 2021](https://brunomontezano.shinyapps.io/dashboard-suicidio/). Escrito em
 Quarto e R via Shiny. 2024.
     - Construído a partir de dados pré-processados pela [Plataforma de Ciência
-    de Dados Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), vinculada a
+    de Dados Aplicada à Saúde](https://pcdas.icict.fiocruz.br/), vinculada à
     Fundação Oswaldo Cruz (FIOCRUZ).
     - *Nota*: atualmente indisponível por questões de sigilo de dados.
 

@@ -46,7 +46,7 @@
     "href": "cv.html#softwares-1",
     "title": "CV",
     "section": "💻 Softwares",
-    "text": "💻 Softwares\n\nDashboard de taxas de suicídio no Brasil: de 2000 a 2021. Escrito em Quarto e R via Shiny. 2024.\n\nConstruído a partir de dados pré-processados pela Plataforma de Ciência de Dados Aplicada à Saúde, vinculada a Fundação Oswaldo Cruz (FIOCRUZ).\nNota: atualmente indisponível por questões de sigilo de dados.\n\nFerramenta de randomização para ensaios clínicos. Escrito em Shiny e R. 2024.\n\nA ferramenta soluciona a randomização simples de pacientes em ensaios clínicos, mantendo o processo de cegamento. Ainda, oferece aos usuários a opção de baixar as tabelas localmente."
+    "text": "💻 Softwares\n\nDashboard de taxas de suicídio no Brasil: de 2000 a 2021. Escrito em Quarto e R via Shiny. 2024.\n\nConstruído a partir de dados pré-processados pela Plataforma de Ciência de Dados Aplicada à Saúde, vinculada à Fundação Oswaldo Cruz (FIOCRUZ).\nNota: atualmente indisponível por questões de sigilo de dados.\n\nFerramenta de randomização para ensaios clínicos. Escrito em Shiny e R. 2024.\n\nA ferramenta soluciona a randomização simples de pacientes em ensaios clínicos, mantendo o processo de cegamento. Ainda, oferece aos usuários a opção de baixar as tabelas localmente."
   },
   {
     "objectID": "cv.html#prêmios-e-destaques",
