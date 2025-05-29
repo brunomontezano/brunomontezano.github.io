@@ -3,7 +3,7 @@ title: "Bruno Montezano"
 image: profile.jpeg
 image-alt: "Profile picture from Bruno Montezano."
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 12em
   links:
@@ -23,6 +23,8 @@ about:
       href: https://www.youtube.com/@brunomontezano/
     - text: Email
       href: mailto:bmontezano@hcpa.edu.br
+    - text: Instagram
+      href: https://www.instagram.com/montezanob/
 ---
 
 ::: {.content-visible when-profile="english"}

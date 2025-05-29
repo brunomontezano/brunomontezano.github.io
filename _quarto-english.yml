@@ -1,8 +1,9 @@
 project:
-  title: "Bruno Montezano | Psychologist & Data Analyst"
   output-dir: ./docs/en
 
 website:
+  title: "Bruno Montezano"
+  description: "Psychologist & Data Analyst"
   search: false
   navbar:
     left:
