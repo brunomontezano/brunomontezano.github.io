@@ -159,19 +159,20 @@ LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Article* published in
 ## 📚 Book chapters
 
 * [Circadian Rhythms in Patients with Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). **Montezano BB**.
-Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
-published by *Springer Nature*. 2025.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). Zimerman A, Zimmer C,
+**Montezano BB**, Passos IC. Chapter of the book *Bipolar Disorder: An
+Evidence-Based Clinical Guide* published by *Springer Nature*. 2025.
 
 * [Substance Use Disorder in the Course of Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**.
-Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
-published by *Springer Nature*. 2025.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**,
+Meller MR, de Azevedo Cardoso, T. Chapter of the book *Bipolar Disorder: An
+Evidence-Based Clinical Guide* published by *Springer Nature*. 2025.
 
 * [Prodromal Symptoms and Risk Markers of Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). **Montezano BB**.
-Chapter of the book *Bipolar Disorder: An Evidence-Based Clinical Guide*
-published by *Springer Nature*. 2025.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). Lorenzoni IC,
+Diefenthaeler SM, Marcon AC, Reginatto A, Passos IC, **Montezano BB**. Chapter
+of the book *Bipolar Disorder: An Evidence-Based Clinical Guide* published by
+*Springer Nature*. 2025.
 
 * [O uso da inteligência artificial para identificar doenças
 psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
@@ -575,19 +576,21 @@ revista *Psychiatry Research*. 2023.
 ## 📚 Capítulos de livro
 
 * [Circadian Rhythms in Patients with Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). **Montezano BB**.
-Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
-publicado pela *Springer Nature*. 2025.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). Zimerman A, Zimmer C,
+**Montezano BB**, Passos IC. Capítulo do livro *Bipolar Disorder: An
+Evidence-Based Clinical Guide* publicado pela *Springer Nature*. 2025.
 
 * [Substance Use Disorder in the Course of Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_11). **Montezano BB**,
+Meller MR, de Azevedo Cardoso, T.
 Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
 publicado pela *Springer Nature*. 2025.
 
 * [Prodromal Symptoms and Risk Markers of Bipolar
-Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). **Montezano BB**.
-Capítulo do livro *Bipolar Disorder: An Evidence-Based Clinical Guide*
-publicado pela *Springer Nature*. 2025.
+Disorder](https://doi.org/10.1007/978-3-031-85519-1_5). Lorenzoni IC,
+Diefenthaeler SM, Marcon AC, Reginatto A, Passos IC, **Montezano BB**. Capítulo
+do livro *Bipolar Disorder: An Evidence-Based Clinical Guide* publicado pela
+*Springer Nature*. 2025.
 
 * [O uso da inteligência artificial para identificar doenças
 psiquiátricas](https://loja.grupoa.com.br/psiquiatria-digital9786558821618-p1021609).
