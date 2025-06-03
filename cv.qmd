@@ -383,6 +383,8 @@ citations_plot <- plotly::plot_ly(
   )
 ) |>
   plotly::layout(
+    paper_bgcolor = "#FDF9F0",
+    plot_bgcolor = "#FDF9F0",
     yaxis = list(
       title = "Google Scholar cites",
       titlefont = list(size = 15),
@@ -802,6 +804,8 @@ citations_plot <- plotly::plot_ly(
   )
 ) |>
   plotly::layout(
+    paper_bgcolor = "#FDF9F0",
+    plot_bgcolor = "#FDF9F0",
     yaxis = list(
       title = "Citações no Google Scholar",
       titlefont = list(size = 15),
