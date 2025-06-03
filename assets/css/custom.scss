@@ -23,3 +23,7 @@ ol,
 li {
   font-family: "Lato", sans-serif;
 }
+
+#title-block-header>div:nth-child(3)>div {
+  display: none;
+}

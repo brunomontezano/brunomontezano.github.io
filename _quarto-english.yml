@@ -27,4 +27,8 @@ format:
       - assets/css/custom.scss
     highlight-style: breeze
     mainfont: Lato
+    description-meta: Website of the researcher Bruno Montezano, who works with computational techniques applied to mental health.
+    author-meta: Bruno Braga Montezano
+    pagetitle: Bruno Montezano
+    keywords: [statistics, research, programming, health, phd, masters, psychiatry, psychology]
     toc: true
