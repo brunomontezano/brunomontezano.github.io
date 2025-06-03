@@ -1,6 +1,6 @@
 ---
 title: "Bruno Montezano"
-image: profile.jpeg
+image: assets/images/bruno.webp
 image-alt: "Profile picture from Bruno Montezano."
 about: 
   template: trestles

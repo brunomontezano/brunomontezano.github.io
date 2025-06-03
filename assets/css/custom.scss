@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+@font-face {
+  font-family: 'Lato';
+  font-weight: 500;
+  src: url('assets/fonts/Lato-Regular.woff2') format('woff2'),
+    url('assets/fonts/Lato-Regular.woff') format('woff');
+}
+
+$main-font: "Lato";
+$white: #FDF9F0 !default;
+
+/*-- scss:rules --*/
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li {
+  font-family: "Lato", sans-serif;
+}

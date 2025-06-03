@@ -5,7 +5,7 @@ website:
   title: "Bruno Montezano"
   description: "Psychologist & Data Analyst"
   search: false
-  favicon: favicon.ico
+  favicon: assets/favicon/favicon.ico
   navbar:
     left:
       - href: index.qmd
@@ -24,7 +24,7 @@ format:
   html:
     theme:
       - litera
-      - custom.scss
+      - assets/css/custom.scss
     highlight-style: breeze
     mainfont: Lato
     toc: true
