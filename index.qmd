@@ -3,7 +3,7 @@ title: "Bruno Montezano"
 image: assets/images/bruno.webp
 image-alt: "Profile picture from Bruno Montezano."
 about: 
-  template: trestles
+  template: solana
   image-shape: round
   links:
     - text: LinkedIn
