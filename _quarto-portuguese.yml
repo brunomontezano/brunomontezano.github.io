@@ -2,6 +2,7 @@ project:
   output-dir: ./docs
 
 website:
+  site-url: "https://brunomontezano.com.br"
   title: "Bruno Montezano"
   description: "Psicólogo & Analista de Dados"
   search: false
@@ -30,5 +31,6 @@ format:
     description-meta: Site do pesquisador Bruno Montezano, que trabalha com técnicas computacionais aplicadas à saúde mental.
     author-meta: Bruno Braga Montezano
     pagetitle: Bruno Montezano
+    canonical-url: true
     keywords: [estatística, pesquisa, programação, saúde, doutorado, mestrado, psiquiatria, psicologia]
     toc: true
