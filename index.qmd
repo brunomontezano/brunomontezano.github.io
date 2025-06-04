@@ -5,7 +5,6 @@ image-alt: "Profile picture from Bruno Montezano."
 about: 
   template: trestles
   image-shape: round
-  image-width: 10em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/bmontezano/
