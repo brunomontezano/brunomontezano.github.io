@@ -74,7 +74,7 @@
     "href": "cv.html#citations",
     "title": "CV",
     "section": "📈 Citations",
-    "text": "📈 Citations\n\n\nWarning in min(citations$year): no non-missing arguments to min; returning Inf\n\n\nWarning in max(citations$cites): no non-missing arguments to max; returning\n-Inf"
+    "text": "📈 Citations\nCitations are available at Google Scholar."
   },
   {
     "objectID": "index.html",
