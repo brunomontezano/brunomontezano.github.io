@@ -158,6 +158,11 @@ LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Article* published in
 
 ## 📚 Book chapters
 
+* [Tecnologia e saúde
+mental](https://loja.grupoa.com.br/psicologia-medica-aplicada9786558823148-p1053035).
+Ruffini ML, Casarolli FRLA, Maestri JP, **Montezano BB**, Passos IC. Chapter of
+the book *Psicologia Médica Aplicada* published by *Artmed*. 2025.
+
 * [Circadian Rhythms in Patients with Bipolar
 Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). Zimerman A, Zimmer C,
 **Montezano BB**, Passos IC. Chapter of the book *Bipolar Disorder: An
@@ -364,61 +369,9 @@ Zero Hora. April 13, 2023.
 
 ## 📈 Citations
 
-```{r citation-plotly-en-us}
-#| echo: false
-citations <- scholar::get_citation_history("dULhWr0AAAAJ") |>
-  dplyr::mutate(text = glue::glue("Year: {year}\nCitations: {cites}"))
+Citations are available at [Google
+Scholar](https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en).
 
-citations_plot <- plotly::plot_ly(
-  data = citations,
-  x = ~year,
-  y = ~cites,
-  text = ~text,
-  hoverinfo = "text",
-  textposition = "none",
-  name = "Google Scholar cites",
-  type = "bar",
-  marker = list(
-    color = "rgb(73, 150, 245)",
-    line = list(color = "rgb(0, 0, 0)", width = 1.5)
-  )
-) |>
-  plotly::layout(
-    paper_bgcolor = "#FDF9F0",
-    plot_bgcolor = "#FDF9F0",
-    yaxis = list(
-      title = "Google Scholar cites",
-      titlefont = list(size = 15),
-      fixedrange = TRUE
-    ),
-    xaxis = list(
-      title = "Year",
-      titlefont = list(size = 15),
-      tickvals = as.list(2022:2024),
-      tickmode = "array",
-      fixedrange = TRUE
-    )
-  ) |>
-  plotly::add_annotations(
-    x = min(citations$year),
-    y = max(citations$cites) + 1,
-    text = paste0("Last updated: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")),
-    showarrow = FALSE,
-    font = list(color = "grey90")
-  ) |>
-  plotly::config(
-    displayModeBar = TRUE,
-    displaylogo = FALSE,
-    modeBarButtonsToRemove = list(
-      "lasso2d",
-      "select2d",
-      "hoverClosestCartesian",
-      "hoverCompareCartesian"
-    )
-  )
-
-citations_plot
-```
 :::
 
 
@@ -574,6 +527,11 @@ LDM, Kapczinski F, Cardoso TA, Jansen K, Passos, IC. *Artigo* publicado na
 revista *Psychiatry Research*. 2023.
 
 ## 📚 Capítulos de livro
+
+* [Tecnologia e saúde
+mental](https://loja.grupoa.com.br/psicologia-medica-aplicada9786558823148-p1053035).
+Ruffini ML, Casarolli FRLA, Maestri JP, **Montezano BB**, Passos IC. Capítulo
+do livro *Psicologia Médica Aplicada* publicado pela *Artmed*. 2025.
 
 * [Circadian Rhythms in Patients with Bipolar
 Disorder](https://doi.org/10.1007/978-3-031-85519-1_13). Zimerman A, Zimmer C,
@@ -787,62 +745,6 @@ Zero Hora. 13 de abril de 2023.
 
 ## 📈 Citações
 
-```{r citation-plotly-pt-br}
-#| echo: false
-citations <- scholar::get_citation_history("dULhWr0AAAAJ") |>
-  dplyr::mutate(text = glue::glue("Ano: {year}\nCitações: {cites}"))
-
-citations_plot <- plotly::plot_ly(
-  data = citations,
-  x = ~year,
-  y = ~cites,
-  text = ~text,
-  hoverinfo = "text",
-  textposition = "none",
-  name = "Citações no Google Scholar",
-  type = "bar",
-  marker = list(
-    color = "rgb(73, 150, 245)",
-    line = list(color = "rgb(0, 0, 0)", width = 1.5)
-  )
-) |>
-  plotly::layout(
-    paper_bgcolor = "#FDF9F0",
-    plot_bgcolor = "#FDF9F0",
-    yaxis = list(
-      title = "Citações no Google Scholar",
-      titlefont = list(size = 15),
-      fixedrange = TRUE
-    ),
-    xaxis = list(
-      title = "Ano",
-      titlefont = list(size = 15),
-      tickvals = as.list(2022:2024),
-      tickmode = "array",
-      fixedrange = TRUE
-    )
-  ) |>
-  plotly::add_annotations(
-    x = min(citations$year),
-    y = max(citations$cites) + 1,
-    text = paste0(
-      "Atualizado em: ",
-      format(Sys.time(), "%d/%m/%Y %H:%M:%S UTC%Z")
-    ),
-    showarrow = FALSE,
-    font = list(color = "grey90")
-  ) |>
-  plotly::config(
-    displayModeBar = TRUE,
-    displaylogo = FALSE,
-    modeBarButtonsToRemove = list(
-      "lasso2d",
-      "select2d",
-      "hoverClosestCartesian",
-      "hoverCompareCartesian"
-    )
-  )
-
-citations_plot
-```
+Citações estão disponíveis no [Google
+Scholar](https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en).
 :::

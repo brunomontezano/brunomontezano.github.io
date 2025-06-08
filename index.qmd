@@ -3,27 +3,36 @@ title: "Bruno Montezano"
 image: assets/images/bruno.webp
 image-alt: "Profile picture from Bruno Montezano."
 about: 
-  template: solana
-  image-shape: round
+  template: trestles
+  image-shape: rounded
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/bmontezano/
+      target: _blank
     - text: GitHub
       href: https://github.com/brunomontezano
+      target: _blank
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Bruno-Braga-Montezano
+      target: _blank
     - text: ORCID
       href: https://orcid.org/0000-0002-4627-1776
+      target: _blank
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=dULhWr0AAAAJ&hl=en
+      target: _blank
     - text: Lattes CV
       href: https://lattes.cnpq.br/5680118320056968
+      target: _blank
     - text: YouTube
       href: https://www.youtube.com/@brunomontezano/
+      target: _blank
     - text: Email
       href: mailto:bmontezano@hcpa.edu.br
+      target: _blank
     - text: Instagram
       href: https://www.instagram.com/montezanob/
+      target: _blank
 ---
 
 ::: {.content-visible when-profile="english"}
