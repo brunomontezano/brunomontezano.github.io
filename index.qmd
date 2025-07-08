@@ -33,6 +33,9 @@ about:
     - text: Instagram
       href: https://www.instagram.com/montezanob/
       target: _blank
+    - text: Método Science
+      href: https://metodoscience.com.br
+      target: _blank
 ---
 
 ::: {.content-visible when-profile="english"}
@@ -52,8 +55,8 @@ Bruno Montezano has extensive experience in quantitative data analysis and
 statistical computing, with experience in the areas of machine learning and
 mental health outcomes.
 
-In 2025, he co-founded Método, a company that aims to offer training and
-solutions in data analysis and health research. He has published in several
+In 2025, he co-founded Método Science, a company that aims to offer training
+and solutions in data analysis and health research. He has published in several
 high-impact scientific journals in the field of psychiatry. He is director and
 member of the AlliaNCE (Artificial Intelligence in Neuroscience) research group
 coordinated by Dr. Ives Cavalcante Passos. In May 2023, he received the Mitacs
@@ -64,8 +67,8 @@ Brazilian Journal of Psychiatry. In the second half of 2023, he presented the
 results of his dissertation on the interface between bipolar disorder and
 artificial intelligence techniques at the 25th Annual Conference of the
 International Society for Bipolar Disorders (ISBD) in Chicago (USA). At the end
-of 2024, he won the FAMED 2024 Best Dissertation award at an event that
-honored the best theses and dissertations defended between 2023 and 2024 in the
+of 2024, he won the FAMED 2024 Best Dissertation award at an event that honored
+the best theses and dissertations defended between 2023 and 2024 in the
 Graduate Programs of the UFRGS School of Medicine.
 :::
 
@@ -87,19 +90,19 @@ Montezano possui vasta experiência em análise quantitativa de dados e
 computação estatística, com experiência nas áreas de aprendizado de máquina e
 desfechos em saúde mental.
 
-Em 2025, co-fundou a Método, empresa que visa oferecer formação e soluções em
-análise de dados e pesquisa em saúde. Já publicou em diversos periódicos
-científicos de alto impacto no campo da psiquiatria. É diretor e integrante do
-grupo de pesquisa AlliaNCE (Artificial Intelligence in Neuroscience) coordenado
-pelo Dr. Ives Cavalcante Passos. Em maio de 2023, recebeu o Mitacs Globalink
-Research Award para ser financiado em um estágio na McMaster University no
-Canadá para trabalhar na interface entre saúde mental da mulher e aprendizado
-de máquina. Desde junho de 2023, também atua como editor assistente na Revista
-Brasileira de Psiquiatria. No segundo semestre de 2023, apresentou os
-resultados de sua dissertação na interface entre transtorno bipolar e técnicas
-de inteligência artificial na 25\textsuperscript{a} Conferência Anual da
-Sociedade Internacional para Transtornos Bipolares (ISBD) em Chicago (EUA). Ao
-final de 2024, venceu o prêmio de Melhor Dissertação FAMED 2024 em evento que
-premiou as melhores teses e dissertações defendidas entre 2023 e 2024, nos
-programas de Pós-Graduação da Faculdade de Medicina da UFRGS.
+Em 2025, co-fundou a Método Science, empresa que visa oferecer formação e
+soluções em análise de dados e pesquisa em saúde. Já publicou em diversos
+periódicos científicos de alto impacto no campo da psiquiatria. É diretor e
+integrante do grupo de pesquisa AlliaNCE (Artificial Intelligence in
+Neuroscience) coordenado pelo Dr. Ives Cavalcante Passos. Em maio de 2023,
+recebeu o Mitacs Globalink Research Award para ser financiado em um estágio na
+McMaster University no Canadá para trabalhar na interface entre saúde mental da
+mulher e aprendizado de máquina. Desde junho de 2023, também atua como editor
+assistente na Revista Brasileira de Psiquiatria. No segundo semestre de 2023,
+apresentou os resultados de sua dissertação na interface entre transtorno
+bipolar e técnicas de inteligência artificial na 25\textsuperscript{a}
+Conferência Anual da Sociedade Internacional para Transtornos Bipolares (ISBD)
+em Chicago (EUA). Ao final de 2024, venceu o prêmio de Melhor Dissertação FAMED
+2024 em evento que premiou as melhores teses e dissertações defendidas entre
+2023 e 2024, nos programas de Pós-Graduação da Faculdade de Medicina da UFRGS.
 :::
