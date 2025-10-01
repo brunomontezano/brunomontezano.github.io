@@ -40,6 +40,14 @@ Sul, Brazil
 
 ## 📝 Publications and preprints
 
+* [Digital interventions for depressive symptoms: a randomized clinical
+trial](http://dx.doi.org/10.47626/2237-6089-2024-1006). Bebber JC, **Montezano
+BB**, Vivan AS, Antonelli-Salgado T, Aguiar KR, Zimerman A, Shintani AO,
+Moreira MBR, Campos R, Rodrigues L, Zaffari GF, Mallmann G, Pulice RF, Senger
+VC, Vargas JR, Zimmer C, Amaral MCS, Veloso GG, Vecchia GFD, Lopez JCB, Brunoni
+AR, Rabelo-da-Ponte FD, Passos IC, Braga DT. *Article* at *Trends in Psychiatry
+and Psychotherapy*. 2025.
+
 * [Validation of the Brazilian version of the processes of change questionnaire
 in weight management in adults with overweight and obesity in
 Brazil](https://doi.org/10.1186/s13098-025-01613-y). Carvalho Q, Ziani PR,
@@ -231,6 +239,52 @@ Portuguese)](https://brunomontezano.github.io/r-workshop/). Online. April, 2023.
     for data-driven research in healthcare. 
 
 ## 🎤 Lectures
+
+* [Use of artificial intelligence to prevent suicide
+attempts](https://sites.google.com/hcpa.edu.br/45-semana-cientifica-do-hcpa/programa).
+Porto Alegre, RS. September 25, 2025.
+    - The lecture took place in the Carlos César de Albuquerque Amphitheater at
+    the Hospital de Clínicas de Porto Alegre (HCPA), during the 45th HCPA
+    Scientific Week. Bruno's talk was part of the roundtable "AI in Care:
+    Treatment," coordinated by Prof. Dr. Ives Passos. In addition to Bruno,
+    speakers Vinicius Souza dos Santos, Bruno Simas da Rocha, and Pedro
+    Ballester also contributed to the discussion.
+
+* [The role of artificial intelligence in mental health
+care](https://youtu.be/KGxpavKY-wY?si=mPOy6IwGHmcR_ekH). Online. September 22, 2025.
+    - This talk was delivered remotely and took place at a meeting of the
+    ALliaNCE (Artificial Intelligence in Neuroscience) research group in
+    September 2025. This presentation was part of a series of presentations by
+    the group's graduate students in the second half of 2025.
+
+* [Can AI help us predict suicidal
+behavior?](https://www.gauchopsiquiatria2025.com.br/). Porto Alegre, RS.
+September 5, 2025.
+    - The lecture was given at the XVII Gaucho Psychiatry Congress, held at the
+    BarraShoppingSul Events Center in Porto Alegre. At the event, Bruno's
+    presentation was part of a roundtable discussion coordinated by Dr. Augusto
+    Bittencourt on "Suicide and Psychiatric Consultation," with Dr. Neury José
+    Botega speaking on suicide risk assessment.
+
+* [How is artificial intelligence redefining mental
+health?](https://youtu.be/KEBEZoH8Wkc?si=8fWfhg_72IrU5YWC). Curitiba, PR.
+August 30, 2025.
+    - The lecture was given at the XVI Paraná Psychiatry Conference, held at
+    the Canal da Música cultural complex in Curitiba, PR, on August 30, 2025.
+    The talk was part of a roundtable discussion titled "Artificial
+    Intelligence: What Every Psychiatrist Needs to Know?", which also featured
+    a talk by Dr. Thiago Roza (UFPR) on how AI can help manage patients at risk
+    of suicide.
+
+* [Big data and artificial intelligence: applications in mental
+health](https://www.instagram.com/p/DNByr9FuRtY/). Porto Alegre, RS. August 15, 2025.
+    - The lecture was given at the Digital Mental Health Symposium held at
+    Tecnopuc in Porto Alegre on August 15, 2025, at 5:05 p.m. It was part of a
+    roundtable discussion on digital phenotyping, big data, artificial
+    intelligence, regulation, ethics, and data privacy. Aline Zimerman and Rafael
+    Duarte also spoke. The presentation addressed AI applications in mental health,
+    along with a historical overview of the field.
+
 * [Diagnosis, risk factors and challenges in the treatment of bipolar
 disorder](https://www.instagram.com/p/DJEoRXqO05I/). Online. May 13, 2025.
     - The lecture was given at a meeting of the Support Group for Patients with
@@ -342,6 +396,14 @@ Grande, RS. 2019.
 
 ## 📰 Media and press releases
 
+* [Projeto que usa IA para criar calculadora que estima risco de suicídio está sendo desenvolvido no Clínicas](https://www.hcpa.edu.br/4201-projeto-que-usa-ia-para-criar-calculadora-que-estima-risco-de-suicidio-esta-sendo-desenvolvido-no-clinicas).
+Hospital de Clínicas de Porto Alegre (HCPA). September 26, 2025.
+
+* [Projeto coordenado pela UFRGS usa IA para criar "calculadora" de medição de
+risco de suicídio em pacientes
+psiquiátricos](https://gauchazh.clicrbs.com.br/saude/noticia/2025/09/projeto-coordenado-pela-ufrgs-usa-ia-para-criar-calculadora-de-medicao-de-risco-de-suicidio-em-pacientes-psiquiatricos-cmfvhccaz008n011yy7zmghpu.html).
+Zero Hora. September 23, 2025.
+
 * [Solidão: prevalência global acende alerta para impactos na saúde da
 população e busca por
 soluções](https://futurodasaude.com.br/solidao-solucoes/). Futuro da Saúde. May
@@ -414,6 +476,14 @@ do Sul, Brasil
 Ciência e Tecnologia do Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brasil
 
 ## 📝 Publicações
+
+* [Digital interventions for depressive symptoms: a randomized clinical
+trial](http://dx.doi.org/10.47626/2237-6089-2024-1006). Bebber JC, **Montezano
+BB**, Vivan AS, Antonelli-Salgado T, Aguiar KR, Zimerman A, Shintani AO,
+Moreira MBR, Campos R, Rodrigues L, Zaffari GF, Mallmann G, Pulice RF, Senger
+VC, Vargas JR, Zimmer C, Amaral MCS, Veloso GG, Vecchia GFD, Lopez JCB, Brunoni
+AR, Rabelo-da-Ponte FD, Passos IC, Braga DT. *Artigo* publicado na *Trends in
+Psychiatry and Psychotherapy*. 2025.
 
 * [Validation of the Brazilian version of the processes of change questionnaire
 in weight management in adults with overweight and obesity in
@@ -610,6 +680,55 @@ saúde](https://brunomontezano.github.io/r-workshop/). Online. Abril de 2023.
 
 ## 🎤 Palestras
 
+* [Uso de inteligência artificial para prevenir a tentativa de
+suicídio](https://sites.google.com/hcpa.edu.br/45-semana-cientifica-do-hcpa/programa).
+Porto Alegre, RS. 25 de setembro de 2025.
+    - A palestra aconteceu no Anfiteatro Carlos César de Albuquerque no
+    Hospital de Clínicas de Porto Alegre (HCPA), pela 45a Semana Científica do
+    HCPA. A fala de Bruno fez parte da mesa redonda "IA na Assistência:
+    Tratamento" com coordenação do Prof. Dr. Ives Passos. Além de Bruno, os
+    palestrantes Vinicius Souza dos Santos, Bruno Simas da Rocha e Pedro
+    Ballester também colaboraram para a discussão.
+
+* [O papel da inteligência artificial no cuidado em saúde
+mental](https://youtu.be/KGxpavKY-wY?si=mPOy6IwGHmcR_ekH). Online. 22 de
+setembro de 2025.
+    - Esta fala foi conduzida de forma remota, e aconteceu em uma reunião do
+    grupo de pesquisa ALliaNCE (*Artificial Intelligence in Neuroscience*) em
+    setembro de 2025. Essa apresentação fez parte de uma série de exposições
+    realizadas pelos alunos de pós-graduação do grupo no segundo semestre de 2025.
+
+* [A IA poderá nos ajudar a prever o comportamento
+suicida?](https://www.gauchopsiquiatria2025.com.br/). Porto Alegre, RS. 5 de
+setembro de 2025.
+    - A palestra foi realizada no XVII Congresso Gaúcho de Psiquiatria, que
+    aconteceu no Centro de Eventos do BarraShoppingSul em Porto Alegre. No
+    evento, a apresentação de Bruno fez parte de uma mesa redonda coordenada
+    pelo Dr. Augusto Bittencourt sobre "Suicídio e interconsulta psiquiátrica",
+    com participação do Dr. Neury José Botega falando sobre avaliação de
+    risco de suicídio.
+
+* [Como a inteligência artificial está redefinindo a saúde
+mental?](https://youtu.be/KEBEZoH8Wkc?si=8fWfhg_72IrU5YWC). Curitiba, PR. 30 de
+agosto de 2025.
+    - A palestra foi realizada na XVI Jornada Paranaense de Psiquiatria, que
+    aconteceu no complexo cultural Canal da Música, em Curitiba (PR), no dia 30
+    de agosto de 2025. A fala fez parte de uma mesa redonda intitulada
+    "Inteligência artificial: o que todo psiquiatra precisa saber?", que também
+    contou com a fala do Dr. Thiago Roza (UFPR) sobre como a IA pode ajudar no
+    manejo do paciente com risco suicida.
+
+* [Big data e inteligência artificial: aplicações na saúde
+mental](https://www.instagram.com/p/DNByr9FuRtY/). Porto Alegre, RS. 15 de
+agosto de 2025.
+    - A palestra foi realizada no Simpósio de Saúde Mental Digital realizado no
+    Tecnopuc em Porto Alegre no dia 15 de agosto de 2025, às 17h05. Esta fala
+    fez parte de uma mesa redonda sobre fenotipagem digital, big data,
+    inteligência artificial, regulação, ética e privacidade de dados. Aline
+    Zimerman e Rafael Duarte também palestraram. Na apresentação, foram
+    abordadas aplicações de IA na saúde mental, juntamente de um panorama
+    histórico do campo ao longo do tempo.
+
 * [Diagnóstico, fatores de risco e desafios no tratamento do transtorno
 bipolar](https://www.instagram.com/p/DJEoRXqO05I/). Online. 13 de maio de 2025.
     - A palestra foi realizada em um encontro do Grupo de Apoio aos Pacientes com
@@ -724,6 +843,14 @@ Iniciação Científica*, [Universidade Federal de Rio
 Grande](https://www.furg.br/en/). Rio Grande, RS. 2019.
 
 ## 📰 Entrevistas e comunicados de imprensa
+
+* [Projeto que usa IA para criar calculadora que estima risco de suicídio está sendo desenvolvido no Clínicas](https://www.hcpa.edu.br/4201-projeto-que-usa-ia-para-criar-calculadora-que-estima-risco-de-suicidio-esta-sendo-desenvolvido-no-clinicas).
+Hospital de Clínicas de Porto Alegre (HCPA). 26 de setembro de 2025.
+
+* [Projeto coordenado pela UFRGS usa IA para criar "calculadora" de medição de
+risco de suicídio em pacientes
+psiquiátricos](https://gauchazh.clicrbs.com.br/saude/noticia/2025/09/projeto-coordenado-pela-ufrgs-usa-ia-para-criar-calculadora-de-medicao-de-risco-de-suicidio-em-pacientes-psiquiatricos-cmfvhccaz008n011yy7zmghpu.html).
+Zero Hora. 23 de setembro de 2025.
 
 * [Solidão: prevalência global acende alerta para impactos na saúde da
 população e busca por
