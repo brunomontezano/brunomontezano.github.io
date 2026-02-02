@@ -27,6 +27,7 @@ format:
     theme:
       - litera
       - assets/css/custom.scss
+    page-layout: full
     highlight-style: breeze
     mainfont: Lato
     description-meta: Website of the researcher Bruno Montezano, who works with computational techniques applied to mental health.

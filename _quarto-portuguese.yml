@@ -27,6 +27,7 @@ format:
     theme:
       - litera
       - assets/css/custom.scss
+    page-layout: full
     highlight-style: breeze
     mainfont: Lato
     description-meta: Site do pesquisador Bruno Montezano, que trabalha com técnicas computacionais aplicadas à saúde mental.
