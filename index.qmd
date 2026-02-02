@@ -57,18 +57,19 @@ mental health outcomes.
 
 
 He has published in several high-impact scientific journals in the field of
-psychiatry. He is a member of the AlliaNCE (Artificial Intelligence
-in Neuroscience) research group coordinated by Dr. Ives Cavalcante Passos. In
-May 2023, he received the Mitacs Globalink Research Award to be funded for an
+psychiatry. He is a member of the AlliaNCE (Artificial Intelligence in
+Neuroscience) research group coordinated by Dr. Ives Cavalcante Passos. In May
+2023, he received the Mitacs Globalink Research Award to be funded for an
 internship at McMaster University in Canada to work on the interface between
-women's mental health and machine learning. Since June 2023, he has also been
-an assistant editor at the Brazilian Journal of Psychiatry. In the second half
-of 2023, he presented the results of his dissertation on the interface between
-bipolar disorder and artificial intelligence techniques at the 25th Annual
-Conference of the International Society for Bipolar Disorders (ISBD) in Chicago
-(USA). At the end of 2024, he won the FAMED 2024 Best Dissertation award at an
-event that honored the best theses and dissertations defended between 2023 and
-2024 in the Graduate Programs of the UFRGS School of Medicine.
+women's mental health and machine learning. From June 2023 to August 2025, he
+also served as assistant editor at the Brazilian Journal of Psychiatry. In the
+second half of 2023, he presented the results of his dissertation on the
+interface between bipolar disorder and artificial intelligence techniques at
+the 25th Annual Conference of the International Society for Bipolar Disorders
+(ISBD) in Chicago (USA). At the end of 2024, he won the FAMED 2024 Best
+Dissertation award at an event that honored the best theses and dissertations
+defended between 2023 and 2024 in the Graduate Programs of the UFRGS School of
+Medicine.
 
 
 In 2025, he co-founded Método Science, a company that aims to offer training
@@ -100,10 +101,10 @@ desfechos em saúde mental.
 Já publicou em diversos periódicos científicos de alto impacto no campo da
 psiquiatria. Integra o grupo de pesquisa AlliaNCE (Artificial Intelligence in
 Neuroscience) coordenado pelo Dr. Ives Cavalcante Passos. Em maio de 2023,
-recebeu o Mitacs Globalink Research Award para ser financiado em um estágio na
+recebeu o *Mitacs Globalink Research Award* para ser financiado em um estágio na
 McMaster University no Canadá para trabalhar na interface entre saúde mental da
-mulher e aprendizado de máquina. De junho de 2023 a agosto de 2025, também atua
-como editor assistente na Revista Brasileira de Psiquiatria. No segundo
+mulher e aprendizado de máquina. De junho de 2023 a agosto de 2025, também
+atuou como editor assistente na Revista Brasileira de Psiquiatria. No segundo
 semestre de 2023, apresentou os resultados de sua dissertação na interface
 entre transtorno bipolar e técnicas de inteligência artificial na
 25\textsuperscript{a} Conferência Anual da Sociedade Internacional para
@@ -116,6 +117,6 @@ Faculdade de Medicina da UFRGS.
 Em 2025, co-fundou a Método Science, empresa que visa oferecer formação e
 soluções em análise de dados e pesquisa em saúde. Desde 2023, Bruno já atua com
 consultoria científica em saúde digital para indústria farmacêutica
-internacional. Também possui experiência em consultoria para big techs em
+internacional. Também possui experiência em consultoria para *big techs* em
 estratégias para segurança digital.
 :::
