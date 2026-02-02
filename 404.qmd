@@ -9,7 +9,8 @@ You may want to try searching to find the page's new location.
 :::
 
 ::: {.content-visible when-profile="portuguese"}
-A página solicitada não pôde ser encontrada (talvez tenha sido movida ou renomeada).
+A página solicitada não pôde ser encontrada (talvez tenha sido movida ou
+renomeada).
 
 Talvez você queira tentar pesquisar para encontrar o novo local da página.
 :::
