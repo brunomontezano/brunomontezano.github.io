@@ -13,7 +13,11 @@ website:
       - href: index.qmd
         text: Home
       - href: cv.qmd
-        text: CV
+        text: Currículo
+      - href: servicos.qmd
+        text: Serviços
+      - href: contato.qmd
+        text: Contato
     right:
       - href: ../
         text: 🇧🇷

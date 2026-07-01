@@ -1,0 +1,84 @@
+---
+title: "Contato"
+---
+
+::: {.content-visible when-profile="english"}
+
+<div class="services-grid">
+
+<div class="service-card">
+
+### ✉️ Email
+
+For information regarding psychotherapy, psychological assessment, or other inquiries, please contact me via my professional email.
+
+<a href="mailto:contato@brunomontezano.com.br">Send email →</a>
+
+</div>
+
+<div class="service-card">
+
+### 💬 WhatsApp
+
+If you prefer, send a message directly via WhatsApp to request information or start the scheduling process.
+
+<a href="https://wa.me/5554992332566" target="_blank">Chat on WhatsApp →</a>
+
+</div>
+
+<div class="service-card">
+
+### 📊 Research consulting
+
+For methodological consulting, statistical analysis, and other services related to health research, visit Método Science.
+
+<a href="mailto:contato@metodoscience.com.br">Send email →</a>
+
+<a href="https://metodoscience.com.br" target="_blank">Visit the website →</a>
+
+</div>
+
+</div>
+
+:::
+
+
+::: {.content-visible when-profile="portuguese"}
+
+<div class="services-grid">
+
+<div class="service-card">
+
+### ✉️ E-mail
+
+Para informações sobre psicoterapia, psicodiagnóstico ou outras dúvidas, entre em contato pelo e-mail profissional.
+
+<a href="mailto:contato@brunomontezano.com.br">Enviar e-mail →</a>
+
+</div>
+
+<div class="service-card">
+
+### 💬 WhatsApp
+
+Caso prefira, envie uma mensagem diretamente pelo WhatsApp para solicitar informações ou iniciar o processo de agendamento.
+
+<a href="https://wa.me/5554992332566" target="_blank">Conversar pelo WhatsApp →</a>
+
+</div>
+
+<div class="service-card">
+
+### 📊 Consultoria em pesquisa
+
+Para consultoria metodológica, análise estatística e outros serviços relacionados à pesquisa em saúde, acesse a Método Science.
+
+<a href="mailto:contato@metodoscience.com.br">Enviar e-mail →</a>
+
+<a href="https://metodoscience.com.br" target="_blank">Conhecer o site →</a>
+
+</div>
+
+</div>
+
+:::

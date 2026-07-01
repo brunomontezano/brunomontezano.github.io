@@ -1,0 +1,92 @@
+---
+title: "Serviços"
+---
+
+::: {.content-visible when-profile="english"}
+
+<div class="services-grid">
+
+<div class="service-card">
+
+### 🧠 Psychotherapy
+
+Psychotherapy is a collaborative process that, through a therapeutic relationship
+based on trust and respect, offers a space to understand difficulties,
+develop new perspectives, and build strategies to cope with challenges.
+It seeks to deepen insight into thoughts, emotions, and behaviors, strengthen
+autonomy, improve the quality of interpersonal relationships, reduce psychological distress,
+and promote well-being and quality of life.
+</div>
+
+<div class="service-card">
+
+### 📋 Psychodiagnosis
+
+Through clinical interviews, scales, psychological tests, and assessment sessions,
+psychodiagnosis seeks to gain an in-depth understanding of psychological functioning
+and to clarify diagnostic hypotheses. The information obtained aids in defining the
+treatment plan and making clinical decisions.
+
+</div>
+
+<div class="service-card">
+
+
+### 📊 Health research services
+
+Specialized support for researchers, research groups, and institutions
+at every stage of scientific development—from study planning
+to data analysis and the publication of results.
+
+<a href="https://metodoscience.com.br">Discover Método Science →</a>
+
+</div>
+
+</div>
+
+:::
+
+
+::: {.content-visible when-profile="portuguese"}
+
+<div class="services-grid">
+
+<div class="service-card">
+
+### 🧠 Psicoterapia
+
+A psicoterapia é um processo colaborativo que, por meio de uma relação terapêutica
+baseada em confiança e respeito, oferece um espaço para compreender dificuldades,
+desenvolver novas perspectivas e construir estratégias para lidar com os desafios.
+Busca ampliar o insight sobre pensamentos, emoções e comportamentos, fortalecer a
+autonomia, melhorar a qualidade das relações interpessoais, reduzir o sofrimento psíquico
+e promover bem-estar e qualidade de vida.
+
+</div>
+
+<div class="service-card">
+
+### 📋 Psicodiagnóstico
+
+Por meio de entrevistas clínicas, escalas, testes psicológicos e sessões de avaliação,
+o psicodiagnóstico busca compreender de forma aprofundada o funcionamento psicológico e
+esclarecer hipóteses diagnósticas. As informações obtidas auxiliam na definição do plano
+terapêutico e na tomada de decisões clínicas.
+
+</div>
+
+<div class="service-card">
+
+### 📊 Consultoria para pesquisa em saúde
+
+Apoio especializado para pesquisadores, grupos de pesquisa e instituições
+em todas as etapas do desenvolvimento científico, desde o planejamento do
+estudo até a análise dos dados e a publicação dos resultados.
+
+<a href="https://metodoscience.com.br">Conheça a Método Science →</a>
+
+</div>
+
+</div>
+
+:::
