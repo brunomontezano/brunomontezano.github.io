@@ -40,6 +40,11 @@ Sul, Brazil
 
 ## 📝 Publications and preprints
 
+* [Evaluating digital cognitive tests for clinical use in Alzheimer's disease:
+  A novel framework and scoping review](https://doi.org/10.1002/alz.71559). Hampel H,
+  Nakamura Y, Bell J, Hendrix S, Derchansky M, **Montezano BB**, Stoeckel LE,
+  Teipel S, Willis DR, Cummings JL, Cobb BR. *Article* published at *Alzheimer's & Dementia*. 2026.
+
 * [Ethics approval in suicide-related
   studies](https://doi.org/10.1016/S2215-0366(25)00339-6). **Montezano BB**,
   Raymundo MM, Kapczinski F, Passos IC. *Comment* published at *The Lancet
@@ -492,6 +497,11 @@ do Sul, Brasil
 Ciência e Tecnologia do Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brasil
 
 ## 📝 Publicações
+
+* [Evaluating digital cognitive tests for clinical use in Alzheimer's disease:
+  A novel framework and scoping review](https://doi.org/10.1002/alz.71559). Hampel H,
+  Nakamura Y, Bell J, Hendrix S, Derchansky M, **Montezano BB**, Stoeckel LE,
+  Teipel S, Willis DR, Cummings JL, Cobb BR. *Artigo* publicado na *Alzheimer's & Dementia*. 2026.
 
 * [Ethics approval in suicide-related
   studies](https://doi.org/10.1016/S2215-0366(25)00339-6). **Montezano BB**,
