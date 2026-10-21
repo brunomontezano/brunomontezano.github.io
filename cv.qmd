@@ -40,6 +40,11 @@ Sul, Brazil
 
 ## 📝 Publications and preprints
 
+* [Bipolar Disorder and the Risk of Cardiovascular
+  Diseases: A Systematic Review and Meta-Analysis of Observational Studies](https://doi.org/10.1111/acps.70151).
+  Motta FDS, Ruffini ML, Ritter AC, Ferrão SM, Silva RS, Mastella NS, **Montezano BB**, Neto EA,
+  Kapczinski F, Pinto JV, Passos IC. *Article* published at *Acta Psychiatrica Scandinavica*. 2026.
+
 * [Evaluating digital cognitive tests for clinical use in Alzheimer's disease:
   A novel framework and scoping review](https://doi.org/10.1002/alz.71559). Hampel H,
   Nakamura Y, Bell J, Hendrix S, Derchansky M, **Montezano BB**, Stoeckel LE,
@@ -497,6 +502,12 @@ do Sul, Brasil
 Ciência e Tecnologia do Rio Grande do Sul, Ibirubá, Rio Grande do Sul, Brasil
 
 ## 📝 Publicações
+
+
+* [Bipolar Disorder and the Risk of Cardiovascular
+  Diseases: A Systematic Review and Meta-Analysis of Observational Studies](https://doi.org/10.1111/acps.70151).
+  Motta FDS, Ruffini ML, Ritter AC, Ferrão SM, Silva RS, Mastella NS, **Montezano BB**, Neto EA,
+  Kapczinski F, Pinto JV, Passos IC. *Artigo* publicado na *Acta Psychiatrica Scandinavica*. 2026.
 
 * [Evaluating digital cognitive tests for clinical use in Alzheimer's disease:
   A novel framework and scoping review](https://doi.org/10.1002/alz.71559). Hampel H,
